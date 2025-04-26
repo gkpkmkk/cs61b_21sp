@@ -1,0 +1,2413 @@
+
+--2025-04-26 15:20:38--  https://sp21.datastructur.es/materials/lab/lab1/img/main_screen_when_done_lab1_HelloNumbers_run_run.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 413517 (404K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab1/img/main_screen_when_done_lab1_HelloNumbers_run_run.png’
+
+
+
+2025-04-26 15:20:39 (634 KB/s) - ‘sp21.datastructur.es/materials/lab/lab1/img/main_screen_when_done_lab1_HelloNumbers_run_run.png’ saved [413517/413517]
+
+--2025-04-26 15:20:39--  https://sp21.datastructur.es/materials/lab/lab1/img/main_screen_when_done_lab1_HelloNumbers_run_run_after_click.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 323977 (316K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab1/img/main_screen_when_done_lab1_HelloNumbers_run_run_after_click.png’
+
+
+
+2025-04-26 15:20:40 (933 KB/s) - ‘sp21.datastructur.es/materials/lab/lab1/img/main_screen_when_done_lab1_HelloNumbers_run_run_after_click.png’ saved [323977/323977]
+
+--2025-04-26 15:20:40--  https://sp21.datastructur.es/materials/lab/lab1/lab1SnapsSetupWindows.html
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 5649 (5.5K) [text/html]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab1/lab1SnapsSetupWindows.html’
+
+     0K .....                                                 100% 81.6M=0s
+
+2025-04-26 15:20:40 (81.6 MB/s) - ‘sp21.datastructur.es/materials/lab/lab1/lab1SnapsSetupWindows.html’ saved [5649/5649]
+
+--2025-04-26 15:20:40--  https://sp21.datastructur.es/materials/lab/lab1/lab1SnapsSetupMacAndLinux.html
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 11238 (11K) [text/html]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab1/lab1SnapsSetupMacAndLinux.html’
+
+     0K ..........                                            100%  412M=0s
+
+2025-04-26 15:20:41 (412 MB/s) - ‘sp21.datastructur.es/materials/lab/lab1/lab1SnapsSetupMacAndLinux.html’ saved [11238/11238]
+
+--2025-04-26 15:20:41--  https://sp21.datastructur.es/materials/lab/lab1/img4/windows_about_to_run_checklabconfig.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 524104 (512K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab1/img4/windows_about_to_run_checklabconfig.png’
+
+     0K .......... .......... .......... .......... ..........  9% 63.4K 7s
+    50K .......... .......... .......... .......... .......... 19% 7.20M 3s
+   100K .......... .......... .......... .......... .......... 29%  299K 2s
+   150K .......... .......... .......... .......... .......... 39% 2.56M 2s
+   200K .......... .......... .......... .......... .......... 48% 1.50M 1s
+   250K .......... .......... .......... .......... .......... 58%  698K 1s
+   300K .......... .......... .......... .......... .......... 68% 91.6M 1s
+   350K .......... .......... .......... .......... .......... 78% 1.21M 0s
+   400K .......... .......... .......... .......... .......... 87% 1.06M 0s
+   450K .......... .......... .......... .......... .......... 97%  604K 0s
+   500K .......... .                                          100% 5.13M=1.3s
+
+2025-04-26 15:20:43 (407 KB/s) - ‘sp21.datastructur.es/materials/lab/lab1/img4/windows_about_to_run_checklabconfig.png’ saved [524104/524104]
+
+--2025-04-26 15:20:43--  https://sp21.datastructur.es/materials/lab/lab1/img4/windows_check_lab_config_option.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 514274 (502K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab1/img4/windows_check_lab_config_option.png’
+
+     0K .......... .......... .......... .......... ..........  9%  695K 1s
+    50K .......... .......... .......... .......... .......... 19% 53.5K 4s
+   100K .......... .......... .......... .......... .......... 29%  310K 3s
+   150K .......... .......... .......... .......... .......... 39%  277K 2s
+   200K .......... .......... .......... .......... .......... 49%  475K 1s
+   250K .......... .......... .......... .......... .......... 59%  396K 1s
+   300K .......... .......... .......... .......... .......... 69%  690K 1s
+   350K .......... .......... .......... .......... .......... 79%  302K 0s
+   400K .......... .......... .......... .......... .......... 89%  574K 0s
+   450K .......... .......... .......... .......... .......... 99%  897K 0s
+   500K ..                                                    100% 44.4K=2.0s
+
+2025-04-26 15:20:45 (256 KB/s) - ‘sp21.datastructur.es/materials/lab/lab1/img4/windows_check_lab_config_option.png’ saved [514274/514274]
+
+--2025-04-26 15:20:45--  https://sp21.datastructur.es/materials/lab/lab1/img/github_repo_and_branch_selection.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 75646 (74K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab1/img/github_repo_and_branch_selection.png’
+
+     0K .......... .......... .......... .......... .......... 67%  296K 0s
+    50K .......... .......... ...                             100%  167M=0.2s
+
+2025-04-26 15:20:46 (438 KB/s) - ‘sp21.datastructur.es/materials/lab/lab1/img/github_repo_and_branch_selection.png’ saved [75646/75646]
+
+--2025-04-26 15:20:46--  https://sp21.datastructur.es/materials/lab/lab1/hug_sunburst.jar
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 12868 (13K) [application/java-archive]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab1/hug_sunburst.jar’
+
+     0K .......... ..                                         100% 68.2M=0s
+
+2025-04-26 15:20:47 (68.2 MB/s) - ‘sp21.datastructur.es/materials/lab/lab1/hug_sunburst.jar’ saved [12868/12868]
+
+--2025-04-26 15:20:47--  https://sp21.datastructur.es/materials/hw/hw0/hw0_supplementary_conditionals.txt
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3080 (3.0K) [text/plain]
+Saving to: ‘sp21.datastructur.es/materials/hw/hw0/hw0_supplementary_conditionals.txt’
+
+     0K ...                                                   100% 33.8M=0s
+
+2025-04-26 15:20:47 (33.8 MB/s) - ‘sp21.datastructur.es/materials/hw/hw0/hw0_supplementary_conditionals.txt’ saved [3080/3080]
+
+--2025-04-26 15:20:47--  https://sp21.datastructur.es/materials/hw/hw0/hw0_supplementary_loops.txt
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3287 (3.2K) [text/plain]
+Saving to: ‘sp21.datastructur.es/materials/hw/hw0/hw0_supplementary_loops.txt’
+
+     0K ...                                                   100% 18.8M=0s
+
+2025-04-26 15:20:47 (18.8 MB/s) - ‘sp21.datastructur.es/materials/hw/hw0/hw0_supplementary_loops.txt’ saved [3287/3287]
+
+--2025-04-26 15:20:47--  https://sp21.datastructur.es/materials/hw/hw0/hw0_copy_and_paste.html
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 457 [text/html]
+Saving to: ‘sp21.datastructur.es/materials/hw/hw0/hw0_copy_and_paste.html’
+
+     0K                                                       100% 18.9M=0s
+
+2025-04-26 15:20:48 (18.9 MB/s) - ‘sp21.datastructur.es/materials/hw/hw0/hw0_copy_and_paste.html’ saved [457/457]
+
+--2025-04-26 15:20:48--  https://sp21.datastructur.es/materials/hw/hw0/hw0_supplementary_arrays.txt
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1729 (1.7K) [text/plain]
+Saving to: ‘sp21.datastructur.es/materials/hw/hw0/hw0_supplementary_arrays.txt’
+
+     0K .                                                     100% 40.2M=0s
+
+2025-04-26 15:20:48 (40.2 MB/s) - ‘sp21.datastructur.es/materials/hw/hw0/hw0_supplementary_arrays.txt’ saved [1729/1729]
+
+--2025-04-26 15:20:48--  https://sp21.datastructur.es/materials/proj/proj0/img/example-2048.gif
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3039387 (2.9M) [image/gif]
+Saving to: ‘sp21.datastructur.es/materials/proj/proj0/img/example-2048.gif’
+
+     0K .......... .......... .......... .......... ..........  1%  407K 7s
+    50K .......... .......... .......... .......... ..........  3%  474K 7s
+   100K .......... .......... .......... .......... ..........  5% 1.13M 5s
+   150K .......... .......... .......... .......... ..........  6%  796K 5s
+   200K .......... .......... .......... .......... ..........  8%  409K 5s
+   250K .......... .......... .......... .......... .......... 10%  469K 5s
+   300K .......... .......... .......... .......... .......... 11%  770K 5s
+   350K .......... .......... .......... .......... .......... 13%  228K 5s
+   400K .......... .......... .......... .......... .......... 15% 1.08M 5s
+   450K .......... .......... .......... .......... .......... 16% 1.54M 5s
+   500K .......... .......... .......... .......... .......... 18%  667K 4s
+   550K .......... .......... .......... .......... .......... 20% 1.40M 4s
+   600K .......... .......... .......... .......... .......... 21%  777K 4s
+   650K .......... .......... .......... .......... .......... 23%  525K 4s
+   700K .......... .......... .......... .......... .......... 25% 1.24M 4s
+   750K .......... .......... .......... .......... .......... 26% 1.85M 3s
+   800K .......... .......... .......... .......... .......... 28%  900K 3s
+   850K .......... .......... .......... .......... .......... 30% 1.23M 3s
+   900K .......... .......... .......... .......... .......... 32% 1.19M 3s
+   950K .......... .......... .......... .......... .......... 33% 1.31M 3s
+  1000K .......... .......... .......... .......... .......... 35% 1.17M 3s
+  1050K .......... .......... .......... .......... .......... 37%  846K 3s
+  1100K .......... .......... .......... .......... .......... 38% 1.75M 2s
+  1150K .......... .......... .......... .......... .......... 40% 1.65M 2s
+  1200K .......... .......... .......... .......... .......... 42%  246K 2s
+  1250K .......... .......... .......... .......... .......... 43% 2.03M 2s
+  1300K .......... .......... .......... .......... .......... 45% 1.94M 2s
+  1350K .......... .......... .......... .......... .......... 47% 2.04M 2s
+  1400K .......... .......... .......... .......... .......... 48% 2.01M 2s
+  1450K .......... .......... .......... .......... .......... 50%  374K 2s
+  1500K .......... .......... .......... .......... .......... 52%  776K 2s
+  1550K .......... .......... .......... .......... .......... 53% 2.60M 2s
+  1600K .......... .......... .......... .......... .......... 55%  824K 2s
+  1650K .......... .......... .......... .......... .......... 57%  855K 2s
+  1700K .......... .......... .......... .......... .......... 58% 1.03M 2s
+  1750K .......... .......... .......... .......... .......... 60%  798K 2s
+  1800K .......... .......... .......... .......... .......... 62% 1.68M 1s
+  1850K .......... .......... .......... .......... .......... 64%  466K 1s
+  1900K .......... .......... .......... .......... .......... 65% 4.59M 1s
+  1950K .......... .......... .......... .......... .......... 67% 1.60M 1s
+  2000K .......... .......... .......... .......... .......... 69%  854K 1s
+  2050K .......... .......... .......... .......... .......... 70% 1.93M 1s
+  2100K .......... .......... .......... .......... .......... 72%  380K 1s
+  2150K .......... .......... .......... .......... .......... 74%  779K 1s
+  2200K .......... .......... .......... .......... .......... 75% 5.08M 1s
+  2250K .......... .......... .......... .......... .......... 77% 4.15M 1s
+  2300K .......... .......... .......... .......... .......... 79%  376K 1s
+  2350K .......... .......... .......... .......... .......... 80% 1.03M 1s
+  2400K .......... .......... .......... .......... .......... 82%  837K 1s
+  2450K .......... .......... .......... .......... .......... 84% 1.61M 1s
+  2500K .......... .......... .......... .......... .......... 85%  929K 1s
+  2550K .......... .......... .......... .......... .......... 87% 1.77M 0s
+  2600K .......... .......... .......... .......... .......... 89%  463K 0s
+  2650K .......... .......... .......... .......... .......... 90% 1.47M 0s
+  2700K .......... .......... .......... .......... .......... 92% 1.36M 0s
+  2750K .......... .......... .......... .......... .......... 94%  814K 0s
+  2800K .......... .......... .......... .......... .......... 96% 1.55M 0s
+  2850K .......... .......... .......... .......... .......... 97%  451K 0s
+  2900K .......... .......... .......... .......... .......... 99%  504K 0s
+  2950K .......... ........                                   100% 9.83M=3.7s
+
+2025-04-26 15:20:52 (813 KB/s) - ‘sp21.datastructur.es/materials/proj/proj0/img/example-2048.gif’ saved [3039387/3039387]
+
+--2025-04-26 15:20:52--  https://sp21.datastructur.es/materials/proj/proj0/img/intellij-pre-open.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 108149 (106K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/proj/proj0/img/intellij-pre-open.png’
+
+     0K .......... .......... .......... .......... .......... 47%  919K 0s
+    50K .......... .......... .......... .......... .......... 94% 1011K 0s
+   100K .....                                                 100%  112K=0.1s
+
+2025-04-26 15:20:53 (1017 KB/s) - ‘sp21.datastructur.es/materials/proj/proj0/img/intellij-pre-open.png’ saved [108149/108149]
+
+--2025-04-26 15:20:53--  https://sp21.datastructur.es/materials/proj/proj0/img/intellij-open.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 128490 (125K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/proj/proj0/img/intellij-open.png’
+
+     0K .......... .......... .......... .......... .......... 39%  696K 0s
+    50K .......... .......... .......... .......... .......... 79% 1.20M 0s
+   100K .......... .......... .....                           100%  107M=0.1s
+
+2025-04-26 15:20:53 (1.09 MB/s) - ‘sp21.datastructur.es/materials/proj/proj0/img/intellij-open.png’ saved [128490/128490]
+
+--2025-04-26 15:20:53--  https://sp21.datastructur.es/materials/proj/proj0/img/list-files.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 28957 (28K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/proj/proj0/img/list-files.png’
+
+     0K .......... .......... ........                        100% 1.70M=0.02s
+
+2025-04-26 15:20:54 (1.70 MB/s) - ‘sp21.datastructur.es/materials/proj/proj0/img/list-files.png’ saved [28957/28957]
+
+--2025-04-26 15:20:54--  https://sp21.datastructur.es/materials/proj/proj0/img/opening-project-structure.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 190911 (186K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/proj/proj0/img/opening-project-structure.png’
+
+     0K .......... .......... .......... .......... .......... 26%  464K 0s
+    50K .......... .......... .......... .......... .......... 53% 1.12M 0s
+   100K .......... .......... .......... .......... .......... 80% 3.34M 0s
+   150K .......... .......... .......... ......               100% 5.46M=0.2s
+
+2025-04-26 15:20:54 (1.06 MB/s) - ‘sp21.datastructur.es/materials/proj/proj0/img/opening-project-structure.png’ saved [190911/190911]
+
+--2025-04-26 15:20:54--  https://sp21.datastructur.es/materials/proj/proj0/img/java15.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 196117 (192K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/proj/proj0/img/java15.png’
+
+     0K .......... .......... .......... .......... .......... 26% 2.20M 0s
+    50K .......... .......... .......... .......... .......... 52% 1.73M 0s
+   100K .......... .......... .......... .......... .......... 78% 5.06M 0s
+   150K .......... .......... .......... .......... .         100% 6.15M=0.07s
+
+2025-04-26 15:20:55 (2.81 MB/s) - ‘sp21.datastructur.es/materials/proj/proj0/img/java15.png’ saved [196117/196117]
+
+--2025-04-26 15:20:55--  https://sp21.datastructur.es/materials/proj/proj0/img/intellij-setup.gif
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 8719999 (8.3M) [image/gif]
+Saving to: ‘sp21.datastructur.es/materials/proj/proj0/img/intellij-setup.gif’
+
+     0K .......... .......... .......... .......... ..........  0% 1.17M 7s
+    50K .......... .......... .......... .......... ..........  1% 54.4M 4s
+   100K .......... .......... .......... .......... ..........  1% 32.3M 2s
+   150K .......... .......... .......... .......... ..........  2%  579K 5s
+   200K .......... .......... .......... .......... ..........  2% 2.91M 5s
+   250K .......... .......... .......... .......... ..........  3% 1.69M 5s
+   300K .......... .......... .......... .......... ..........  4%  984K 5s
+   350K .......... .......... .......... .......... ..........  4% 1.30M 5s
+   400K .......... .......... .......... .......... ..........  5%  700K 6s
+   450K .......... .......... .......... .......... ..........  5% 4.67M 6s
+   500K .......... .......... .......... .......... ..........  6%  977K 6s
+   550K .......... .......... .......... .......... ..........  7% 1.09M 6s
+   600K .......... .......... .......... .......... ..........  7% 1.66M 6s
+   650K .......... .......... .......... .......... ..........  8% 1.24M 6s
+   700K .......... .......... .......... .......... ..........  8% 1.11M 6s
+   750K .......... .......... .......... .......... ..........  9%  928K 6s
+   800K .......... .......... .......... .......... ..........  9% 1.42M 6s
+   850K .......... .......... .......... .......... .......... 10% 2.05M 6s
+   900K .......... .......... .......... .......... .......... 11% 1.25M 6s
+   950K .......... .......... .......... .......... .......... 11% 1.33M 6s
+  1000K .......... .......... .......... .......... .......... 12% 1.18M 6s
+  1050K .......... .......... .......... .......... .......... 12% 1.58M 5s
+  1100K .......... .......... .......... .......... .......... 13% 1.45M 5s
+  1150K .......... .......... .......... .......... .......... 14% 1.24M 5s
+  1200K .......... .......... .......... .......... .......... 14% 1.26M 5s
+  1250K .......... .......... .......... .......... .......... 15% 1.89M 5s
+  1300K .......... .......... .......... .......... .......... 15% 1.50M 5s
+  1350K .......... .......... .......... .......... .......... 16% 1.35M 5s
+  1400K .......... .......... .......... .......... .......... 17% 1.74M 5s
+  1450K .......... .......... .......... .......... .......... 17% 1.30M 5s
+  1500K .......... .......... .......... .......... .......... 18% 1.63M 5s
+  1550K .......... .......... .......... .......... .......... 18% 1.12M 5s
+  1600K .......... .......... .......... .......... .......... 19% 3.00M 5s
+  1650K .......... .......... .......... .......... .......... 19% 2.39M 5s
+  1700K .......... .......... .......... .......... .......... 20% 1.64M 5s
+  1750K .......... .......... .......... .......... .......... 21% 1.40M 5s
+  1800K .......... .......... .......... .......... .......... 21% 1.87M 5s
+  1850K .......... .......... .......... .......... .......... 22% 1.30M 5s
+  1900K .......... .......... .......... .......... .......... 22% 7.21M 4s
+  1950K .......... .......... .......... .......... .......... 23% 1.41M 4s
+  2000K .......... .......... .......... .......... .......... 24% 1.35M 4s
+  2050K .......... .......... .......... .......... .......... 24% 1.95M 4s
+  2100K .......... .......... .......... .......... .......... 25% 1.62M 4s
+  2150K .......... .......... .......... .......... .......... 25% 1.25M 4s
+  2200K .......... .......... .......... .......... .......... 26% 7.18M 4s
+  2250K .......... .......... .......... .......... .......... 27% 2.36M 4s
+  2300K .......... .......... .......... .......... .......... 27% 1.99M 4s
+  2350K .......... .......... .......... .......... .......... 28% 1.17M 4s
+  2400K .......... .......... .......... .......... .......... 28% 2.25M 4s
+  2450K .......... .......... .......... .......... .......... 29% 1.42M 4s
+  2500K .......... .......... .......... .......... .......... 29% 2.10M 4s
+  2550K .......... .......... .......... .......... .......... 30% 2.76M 4s
+  2600K .......... .......... .......... .......... .......... 31% 1.79M 4s
+  2650K .......... .......... .......... .......... .......... 31% 2.05M 4s
+  2700K .......... .......... .......... .......... .......... 32% 1.42M 4s
+  2750K .......... .......... .......... .......... .......... 32% 3.74M 4s
+  2800K .......... .......... .......... .......... .......... 33% 1.97M 4s
+  2850K .......... .......... .......... .......... .......... 34% 2.88M 4s
+  2900K .......... .......... .......... .......... .......... 34% 1.72M 4s
+  2950K .......... .......... .......... .......... .......... 35% 1.21M 3s
+  3000K .......... .......... .......... .......... .......... 35% 18.2M 3s
+  3050K .......... .......... .......... .......... .......... 36% 2.08M 3s
+  3100K .......... .......... .......... .......... .......... 36% 2.28M 3s
+  3150K .......... .......... .......... .......... .......... 37% 1.39M 3s
+  3200K .......... .......... .......... .......... .......... 38% 3.11M 3s
+  3250K .......... .......... .......... .......... .......... 38% 2.38M 3s
+  3300K .......... .......... .......... .......... .......... 39%  381K 3s
+  3350K .......... .......... .......... .......... .......... 39%  116M 3s
+  3400K .......... .......... .......... .......... .......... 40% 89.4M 3s
+  3450K .......... .......... .......... .......... .......... 41% 44.8M 3s
+  3500K .......... .......... .......... .......... .......... 41%  118M 3s
+  3550K .......... .......... .......... .......... .......... 42%  245M 3s
+  3600K .......... .......... .......... .......... .......... 42% 1.40M 3s
+  3650K .......... .......... .......... .......... .......... 43%  852K 3s
+  3700K .......... .......... .......... .......... .......... 44% 12.2M 3s
+  3750K .......... .......... .......... .......... .......... 44% 2.55M 3s
+  3800K .......... .......... .......... .......... .......... 45% 2.01M 3s
+  3850K .......... .......... .......... .......... .......... 45% 3.33M 3s
+  3900K .......... .......... .......... .......... .......... 46% 1.07M 3s
+  3950K .......... .......... .......... .......... .......... 46% 12.0M 3s
+  4000K .......... .......... .......... .......... .......... 47%  465K 3s
+  4050K .......... .......... .......... .......... .......... 48% 11.5M 3s
+  4100K .......... .......... .......... .......... .......... 48%  699K 3s
+  4150K .......... .......... .......... .......... .......... 49% 13.0M 3s
+  4200K .......... .......... .......... .......... .......... 49% 3.86M 3s
+  4250K .......... .......... .......... .......... .......... 50% 4.45M 3s
+  4300K .......... .......... .......... .......... .......... 51% 5.38M 2s
+  4350K .......... .......... .......... .......... .......... 51% 3.58M 2s
+  4400K .......... .......... .......... .......... .......... 52% 1.99M 2s
+  4450K .......... .......... .......... .......... .......... 52% 4.10M 2s
+  4500K .......... .......... .......... .......... .......... 53% 2.87M 2s
+  4550K .......... .......... .......... .......... .......... 54% 2.39M 2s
+  4600K .......... .......... .......... .......... .......... 54% 1.57M 2s
+  4650K .......... .......... .......... .......... .......... 55% 1.06M 2s
+  4700K .......... .......... .......... .......... .......... 55% 11.9M 2s
+  4750K .......... .......... .......... .......... .......... 56% 12.9M 2s
+  4800K .......... .......... .......... .......... .......... 56% 1.93M 2s
+  4850K .......... .......... .......... .......... .......... 57% 78.0M 2s
+  4900K .......... .......... .......... .......... .......... 58% 2.48M 2s
+  4950K .......... .......... .......... .......... .......... 58% 2.31M 2s
+  5000K .......... .......... .......... .......... .......... 59% 2.36M 2s
+  5050K .......... .......... .......... .......... .......... 59%  923K 2s
+  5100K .......... .......... .......... .......... .......... 60% 13.2M 2s
+  5150K .......... .......... .......... .......... .......... 61% 1.24M 2s
+  5200K .......... .......... .......... .......... .......... 61% 13.7M 2s
+  5250K .......... .......... .......... .......... .......... 62% 16.1M 2s
+  5300K .......... .......... .......... .......... .......... 62% 5.83M 2s
+  5350K .......... .......... .......... .......... .......... 63% 4.38M 2s
+  5400K .......... .......... .......... .......... .......... 64% 2.71M 2s
+  5450K .......... .......... .......... .......... .......... 64% 2.75M 2s
+  5500K .......... .......... .......... .......... .......... 65% 1.08M 2s
+  5550K .......... .......... .......... .......... .......... 65% 3.30M 2s
+  5600K .......... .......... .......... .......... .......... 66% 2.50M 2s
+  5650K .......... .......... .......... .......... .......... 66% 1.53M 2s
+  5700K .......... .......... .......... .......... .......... 67% 11.0M 1s
+  5750K .......... .......... .......... .......... .......... 68% 2.02M 1s
+  5800K .......... .......... .......... .......... .......... 68% 8.37M 1s
+  5850K .......... .......... .......... .......... .......... 69% 2.15M 1s
+  5900K .......... .......... .......... .......... .......... 69% 1.95M 1s
+  5950K .......... .......... .......... .......... .......... 70% 2.79M 1s
+  6000K .......... .......... .......... .......... .......... 71% 12.2M 1s
+  6050K .......... .......... .......... .......... .......... 71% 3.15M 1s
+  6100K .......... .......... .......... .......... .......... 72%  845K 1s
+  6150K .......... .......... .......... .......... .......... 72% 7.57M 1s
+  6200K .......... .......... .......... .......... .......... 73% 8.51M 1s
+  6250K .......... .......... .......... .......... .......... 73%  536K 1s
+  6300K .......... .......... .......... .......... .......... 74%  718M 1s
+  6350K .......... .......... .......... .......... .......... 75%  788M 1s
+  6400K .......... .......... .......... .......... .......... 75%  888M 1s
+  6450K .......... .......... .......... .......... .......... 76% 1.91M 1s
+  6500K .......... .......... .......... .......... .......... 76% 1.69M 1s
+  6550K .......... .......... .......... .......... .......... 77%  432M 1s
+  6600K .......... .......... .......... .......... .......... 78%  366K 1s
+  6650K .......... .......... .......... .......... .......... 78% 11.3M 1s
+  6700K .......... .......... .......... .......... .......... 79% 1.90M 1s
+  6750K .......... .......... .......... .......... .......... 79% 11.9M 1s
+  6800K .......... .......... .......... .......... .......... 80% 4.51M 1s
+  6850K .......... .......... .......... .......... .......... 81% 2.19M 1s
+  6900K .......... .......... .......... .......... .......... 81% 3.75M 1s
+  6950K .......... .......... .......... .......... .......... 82% 3.52M 1s
+  7000K .......... .......... .......... .......... .......... 82% 2.61M 1s
+  7050K .......... .......... .......... .......... .......... 83% 3.47M 1s
+  7100K .......... .......... .......... .......... .......... 83% 1.80M 1s
+  7150K .......... .......... .......... .......... .......... 84% 3.78M 1s
+  7200K .......... .......... .......... .......... .......... 85% 2.44M 1s
+  7250K .......... .......... .......... .......... .......... 85% 1.03M 1s
+  7300K .......... .......... .......... .......... .......... 86% 5.18M 1s
+  7350K .......... .......... .......... .......... .......... 86%  174M 1s
+  7400K .......... .......... .......... .......... .......... 87% 7.17M 1s
+  7450K .......... .......... .......... .......... .......... 88% 2.41M 1s
+  7500K .......... .......... .......... .......... .......... 88% 2.38M 0s
+  7550K .......... .......... .......... .......... .......... 89% 2.38M 0s
+  7600K .......... .......... .......... .......... .......... 89% 4.01M 0s
+  7650K .......... .......... .......... .......... .......... 90% 2.46M 0s
+  7700K .......... .......... .......... .......... .......... 91% 5.55M 0s
+  7750K .......... .......... .......... .......... .......... 91% 3.77M 0s
+  7800K .......... .......... .......... .......... .......... 92% 1.92M 0s
+  7850K .......... .......... .......... .......... .......... 92% 1.62M 0s
+  7900K .......... .......... .......... .......... .......... 93% 1.27M 0s
+  7950K .......... .......... .......... .......... .......... 93% 13.2M 0s
+  8000K .......... .......... .......... .......... .......... 94% 11.3M 0s
+  8050K .......... .......... .......... .......... .......... 95% 1.87M 0s
+  8100K .......... .......... .......... .......... .......... 95% 4.09M 0s
+  8150K .......... .......... .......... .......... .......... 96% 7.62M 0s
+  8200K .......... .......... .......... .......... .......... 96% 17.1M 0s
+  8250K .......... .......... .......... .......... .......... 97% 1.77M 0s
+  8300K .......... .......... .......... .......... .......... 98% 3.04M 0s
+  8350K .......... .......... .......... .......... .......... 98% 1.70M 0s
+  8400K .......... .......... .......... .......... .......... 99% 6.85M 0s
+  8450K .......... .......... .......... .......... .......... 99% 3.33M 0s
+  8500K .......... .....                                      100% 56.9M=4.2s
+
+2025-04-26 15:21:00 (1.98 MB/s) - ‘sp21.datastructur.es/materials/proj/proj0/img/intellij-setup.gif’ saved [8719999/8719999]
+
+--2025-04-26 15:21:00--  https://sp21.datastructur.es/materials/proj/proj0/img/run-main.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 146703 (143K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/proj/proj0/img/run-main.png’
+
+     0K .......... .......... .......... .......... .......... 34% 1.90M 0s
+    50K .......... .......... .......... .......... .......... 69% 1.59M 0s
+   100K .......... .......... .......... .......... ...       100%  132M=0.06s
+
+2025-04-26 15:21:01 (2.47 MB/s) - ‘sp21.datastructur.es/materials/proj/proj0/img/run-main.png’ saved [146703/146703]
+
+--2025-04-26 15:21:01--  https://sp21.datastructur.es/materials/proj/proj0/img/intellij-error.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 53226 (52K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/proj/proj0/img/intellij-error.png’
+
+     0K .......... .......... .......... .......... .......... 96% 1.62M 0s
+    50K .                                                     100% 39.6K=0.03s
+
+2025-04-26 15:21:01 (1.68 MB/s) - ‘sp21.datastructur.es/materials/proj/proj0/img/intellij-error.png’ saved [53226/53226]
+
+--2025-04-26 15:21:01--  https://sp21.datastructur.es/materials/proj/proj0/img/invalidate-caches.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 224682 (219K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/proj/proj0/img/invalidate-caches.png’
+
+     0K .......... .......... .......... .......... .......... 22% 1.72M 0s
+    50K .......... .......... .......... .......... .......... 45% 4.52M 0s
+   100K .......... .......... .......... .......... .......... 68% 2.34M 0s
+   150K .......... .......... .......... .......... .......... 91% 1.87M 0s
+   200K .......... .........                                  100% 84.3M=0.09s
+
+2025-04-26 15:21:01 (2.48 MB/s) - ‘sp21.datastructur.es/materials/proj/proj0/img/invalidate-caches.png’ saved [224682/224682]
+
+--2025-04-26 15:21:01--  https://sp21.datastructur.es/materials/proj/proj0/img/test-empty-space-all-fail.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 119190 (116K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/proj/proj0/img/test-empty-space-all-fail.png’
+
+     0K .......... .......... .......... .......... .......... 42% 2.18M 0s
+    50K .......... .......... .......... .......... .......... 85% 4.39M 0s
+   100K .......... ......                                     100% 54.3M=0.03s
+
+2025-04-26 15:21:02 (3.36 MB/s) - ‘sp21.datastructur.es/materials/proj/proj0/img/test-empty-space-all-fail.png’ saved [119190/119190]
+
+--2025-04-26 15:21:02--  https://sp21.datastructur.es/materials/proj/proj0/img/test-completely-empty.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 72810 (71K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/proj/proj0/img/test-completely-empty.png’
+
+     0K .......... .......... .......... .......... .......... 70% 4.91M 0s
+    50K .......... .......... .                               100%  308M=0.01s
+
+2025-04-26 15:21:11 (6.94 MB/s) - ‘sp21.datastructur.es/materials/proj/proj0/img/test-completely-empty.png’ saved [72810/72810]
+
+--2025-04-26 15:21:11--  https://sp21.datastructur.es/materials/proj/proj0/img/test-up-error-msg.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 84414 (82K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/proj/proj0/img/test-up-error-msg.png’
+
+     0K .......... .......... .......... .......... .......... 60% 6.16M 0s
+    50K .......... .......... .......... ..                   100% 14.7M=0.01s
+
+2025-04-26 15:21:12 (7.99 MB/s) - ‘sp21.datastructur.es/materials/proj/proj0/img/test-up-error-msg.png’ saved [84414/84414]
+
+--2025-04-26 15:21:12--  https://sp21.datastructur.es/materials/proj/proj0/img/comparison.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 38711 (38K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/proj/proj0/img/comparison.png’
+
+     0K .......... .......... .......... .......              100% 5.60M=0.007s
+
+2025-04-26 15:21:12 (5.60 MB/s) - ‘sp21.datastructur.es/materials/proj/proj0/img/comparison.png’ saved [38711/38711]
+
+--2025-04-26 15:21:12--  https://sp21.datastructur.es/materials/lab/lab2setup/lab2setup
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 15378 (15K) [text/html]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab2setup/lab2setup.html’
+
+     0K .......... .....                                      100% 84.3M=0s
+
+2025-04-26 15:21:12 (84.3 MB/s) - ‘sp21.datastructur.es/materials/lab/lab2setup/lab2setup.html’ saved [15378/15378]
+
+--2025-04-26 15:21:12--  https://sp21.datastructur.es/materials/lab/lab2/img2/folder_structure.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 109337 (107K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab2/img2/folder_structure.png’
+
+     0K .......... .......... .......... .......... .......... 46% 1.16M 0s
+    50K .......... .......... .......... .......... .......... 93% 1.71M 0s
+   100K ......                                                100%  135K=0.07s
+
+2025-04-26 15:21:13 (1.48 MB/s) - ‘sp21.datastructur.es/materials/lab/lab2/img2/folder_structure.png’ saved [109337/109337]
+
+--2025-04-26 15:21:13--  https://sp21.datastructur.es/materials/lab/lab2/img2/run_button.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 30617 (30K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab2/img2/run_button.png’
+
+     0K .......... .......... .........                       100% 1.36M=0.02s
+
+2025-04-26 15:21:13 (1.36 MB/s) - ‘sp21.datastructur.es/materials/lab/lab2/img2/run_button.png’ saved [30617/30617]
+
+--2025-04-26 15:21:13--  https://sp21.datastructur.es/materials/lab/lab2/img2/debug_button.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 28951 (28K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab2/img2/debug_button.png’
+
+     0K .......... .......... ........                        100% 57.9M=0s
+
+2025-04-26 15:21:14 (57.9 MB/s) - ‘sp21.datastructur.es/materials/lab/lab2/img2/debug_button.png’ saved [28951/28951]
+
+--2025-04-26 15:21:14--  https://sp21.datastructur.es/materials/lab/lab2/img2/breakpoint.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 461040 (450K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab2/img2/breakpoint.png’
+
+     0K .......... .......... .......... .......... .......... 11% 2.52M 0s
+    50K .......... .......... .......... .......... .......... 22% 3.40M 0s
+   100K .......... .......... .......... .......... .......... 33% 3.99M 0s
+   150K .......... .......... .......... .......... .......... 44% 2.97M 0s
+   200K .......... .......... .......... .......... .......... 55% 3.23M 0s
+   250K .......... .......... .......... .......... .......... 66% 1.76M 0s
+   300K .......... .......... .......... .......... .......... 77% 3.71M 0s
+   350K .......... .......... .......... .......... .......... 88% 7.60M 0s
+   400K .......... .......... .......... .......... .......... 99% 4.15M 0s
+   450K                                                       100% 4.69K=0.1s
+
+2025-04-26 15:21:14 (3.22 MB/s) - ‘sp21.datastructur.es/materials/lab/lab2/img2/breakpoint.png’ saved [461040/461040]
+
+--2025-04-26 15:21:14--  https://sp21.datastructur.es/materials/lab/lab2/img2/step_into.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 202 [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab2/img2/step_into.png’
+
+     0K                                                       100%  603K=0s
+
+2025-04-26 15:21:14 (603 KB/s) - ‘sp21.datastructur.es/materials/lab/lab2/img2/step_into.png’ saved [202/202]
+
+--2025-04-26 15:21:14--  http://sp21.datastructur.es/materials/guides/debugging-guide.html
+Connecting to sp21.datastructur.es (sp21.datastructur.es)|198.18.0.219|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://sp21.datastructur.es/materials/guides/debugging-guide.html [following]
+--2025-04-26 15:21:15--  https://sp21.datastructur.es/materials/guides/debugging-guide.html
+Connecting to sp21.datastructur.es (sp21.datastructur.es)|198.18.0.219|:443... connected.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘sp21.datastructur.es/materials/guides/debugging-guide.html’ not modified on server. Omitting download.
+
+--2025-04-26 15:21:16--  https://sp21.datastructur.es/materials/lab/lab2/img/lab3_run.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 13746 (13K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab2/img/lab3_run.png’
+
+     0K .......... ...                                        100%  814K=0.02s
+
+2025-04-26 15:21:16 (814 KB/s) - ‘sp21.datastructur.es/materials/lab/lab2/img/lab3_run.png’ saved [13746/13746]
+
+--2025-04-26 15:21:16--  https://sp21.datastructur.es/materials/lab/lab2/img/lab3_run_menu.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 26188 (26K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab2/img/lab3_run_menu.png’
+
+     0K .......... .......... .....                           100% 1.05M=0.02s
+
+2025-04-26 15:21:17 (1.05 MB/s) - ‘sp21.datastructur.es/materials/lab/lab2/img/lab3_run_menu.png’ saved [26188/26188]
+
+--2025-04-26 15:21:17--  https://sp21.datastructur.es/materials/lab/lab2/img/default_renderer.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 32530 (32K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab2/img/default_renderer.png’
+
+     0K .......... .......... .......... .                    100% 9.17M=0.003s
+
+2025-04-26 15:21:17 (9.17 MB/s) - ‘sp21.datastructur.es/materials/lab/lab2/img/default_renderer.png’ saved [32530/32530]
+
+--2025-04-26 15:21:17--  https://sp21.datastructur.es/materials/lab/lab2/img2/how-to-run-a-single-test.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 429372 (419K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab2/img2/how-to-run-a-single-test.png’
+
+     0K .......... .......... .......... .......... .......... 11%  571K 1s
+    50K .......... .......... .......... .......... .......... 23%  970K 0s
+   100K .......... .......... .......... .......... .......... 35% 1.04M 0s
+   150K .......... .......... .......... .......... .......... 47% 2.26M 0s
+   200K .......... .......... .......... .......... .......... 59% 1.85M 0s
+   250K .......... .......... .......... .......... .......... 71% 3.09M 0s
+   300K .......... .......... .......... .......... .......... 83% 1.86M 0s
+   350K .......... .......... .......... .......... .......... 95% 5.04M 0s
+   400K .......... .........                                  100% 9.69M=0.3s
+
+2025-04-26 15:21:18 (1.42 MB/s) - ‘sp21.datastructur.es/materials/lab/lab2/img2/how-to-run-a-single-test.png’ saved [429372/429372]
+
+--2025-04-26 15:21:18--  https://sp21.datastructur.es/materials/lab/lab2/img2/debuggerPickAFunction.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 63746 (62K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab2/img2/debuggerPickAFunction.png’
+
+     0K .......... .......... .......... .......... .......... 80% 6.73M 0s
+    50K .......... ..                                         100%  245K=0.007s
+
+2025-04-26 15:21:18 (8.38 MB/s) - ‘sp21.datastructur.es/materials/lab/lab2/img2/debuggerPickAFunction.png’ saved [63746/63746]
+
+--2025-04-26 15:21:18--  https://sp21.datastructur.es/materials/lab/lab3/testThreeAddThreeRemove.txt
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 614 [text/plain]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab3/testThreeAddThreeRemove.txt’
+
+     0K                                                       100% 8.13M=0s
+
+2025-04-26 15:21:18 (8.13 MB/s) - ‘sp21.datastructur.es/materials/lab/lab3/testThreeAddThreeRemove.txt’ saved [614/614]
+
+--2025-04-26 15:21:18--  https://sp21.datastructur.es/materials/lab/lab3/img/resume_button.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 33194 (32K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab3/img/resume_button.png’
+
+     0K .......... .......... .......... ..                   100% 2.03M=0.02s
+
+2025-04-26 15:21:19 (2.03 MB/s) - ‘sp21.datastructur.es/materials/lab/lab3/img/resume_button.png’ saved [33194/33194]
+
+--2025-04-26 15:21:19--  https://sp21.datastructur.es/materials/lab/lab3/img/conditional_breakpoint.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 10640 (10K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab3/img/conditional_breakpoint.png’
+
+     0K ..........                                            100%  178M=0s
+
+2025-04-26 15:21:19 (178 MB/s) - ‘sp21.datastructur.es/materials/lab/lab3/img/conditional_breakpoint.png’ saved [10640/10640]
+
+--2025-04-26 15:21:19--  https://sp21.datastructur.es/materials/lab/lab3/partialRandomizedComparisons.txt
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 642 [text/plain]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab3/partialRandomizedComparisons.txt’
+
+     0K                                                       100% 18.0M=0s
+
+2025-04-26 15:21:19 (18.0 MB/s) - ‘sp21.datastructur.es/materials/lab/lab3/partialRandomizedComparisons.txt’ saved [642/642]
+
+--2025-04-26 15:21:19--  https://sp21.datastructur.es/materials/lab/lab3/img/breakpoints.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 45150 (44K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab3/img/breakpoints.png’
+
+     0K .......... .......... .......... .......... ....      100% 4.53M=0.01s
+
+2025-04-26 15:21:20 (4.53 MB/s) - ‘sp21.datastructur.es/materials/lab/lab3/img/breakpoints.png’ saved [45150/45150]
+
+--2025-04-26 15:21:20--  https://sp21.datastructur.es/materials/lab/lab3/img/breakpoints_filled_in.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 69611 (68K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab3/img/breakpoints_filled_in.png’
+
+     0K .......... .......... .......... .......... .......... 73% 1.17M 0s
+    50K .......... .......                                    100%  145M=0.04s
+
+2025-04-26 15:21:20 (1.59 MB/s) - ‘sp21.datastructur.es/materials/lab/lab3/img/breakpoints_filled_in.png’ saved [69611/69611]
+
+--2025-04-26 15:21:20--  https://sp21.datastructur.es/materials/guides/git-wtfs
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 15244 (15K) [text/html]
+Saving to: ‘sp21.datastructur.es/materials/guides/git-wtfs.html’
+
+     0K .......... ....                                       100%  323M=0s
+
+2025-04-26 15:21:20 (323 MB/s) - ‘sp21.datastructur.es/materials/guides/git-wtfs.html’ saved [15244/15244]
+
+--2025-04-26 15:21:20--  https://sp21.datastructur.es/materials/lab/lab5/knaveos.html
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 354325 (346K) [text/html]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab5/knaveos.html’
+
+     0K .......... .......... .......... .......... .......... 14%  137K 2s
+    50K .......... .......... .......... .......... .......... 28%  495K 1s
+   100K .......... .......... .......... .......... .......... 43%  915K 1s
+   150K .......... .......... .......... .......... .......... 57% 1008K 0s
+   200K .......... .......... .......... .......... .......... 72%  936K 0s
+   250K .......... .......... .......... .......... .......... 86% 1.05M 0s
+   300K .......... .......... .......... .......... ......    100% 1.29M=0.7s
+
+2025-04-26 15:21:30 (491 KB/s) - ‘sp21.datastructur.es/materials/lab/lab5/knaveos.html’ saved [354325/354325]
+
+--2025-04-26 15:21:30--  https://sp21.datastructur.es/materials/lab/lab6/img/intellij_cwd.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 156125 (152K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab6/img/intellij_cwd.png’
+
+     0K .......... .......... .......... .......... .......... 32% 11.8M 0s
+    50K .......... .......... .......... .......... .......... 65% 1.16M 0s
+   100K .......... .......... .......... .......... .......... 98% 1.24M 0s
+   150K ..                                                    100% 49.3K=0.09s
+
+2025-04-26 15:21:31 (1.74 MB/s) - ‘sp21.datastructur.es/materials/lab/lab6/img/intellij_cwd.png’ saved [156125/156125]
+
+--2025-04-26 15:21:31--  https://sp21.datastructur.es/materials/lab/lab6/img/run.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 152743 (149K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab6/img/run.png’
+
+     0K .......... .......... .......... .......... .......... 33%  655K 0s
+    50K .......... .......... .......... .......... .......... 67%  964K 0s
+   100K .......... .......... .......... .......... ......... 100% 1.63M=0.2s
+
+2025-04-26 15:21:31 (946 KB/s) - ‘sp21.datastructur.es/materials/lab/lab6/img/run.png’ saved [152743/152743]
+
+--2025-04-26 15:21:31--  https://sp21.datastructur.es/materials/lab/lab6/img/edit-box.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 14399 (14K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab6/img/edit-box.png’
+
+     0K .......... ....                                       100%  199M=0s
+
+2025-04-26 15:21:32 (199 MB/s) - ‘sp21.datastructur.es/materials/lab/lab6/img/edit-box.png’ saved [14399/14399]
+
+--2025-04-26 15:21:32--  https://sp21.datastructur.es/materials/lab/lab6/img/remote-debug.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 199169 (195K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab6/img/remote-debug.png’
+
+     0K .......... .......... .......... .......... .......... 25%  842K 0s
+    50K .......... .......... .......... .......... .......... 51% 1.07M 0s
+   100K .......... .......... .......... .......... .......... 77% 1.06M 0s
+   150K .......... .......... .......... .......... ....      100% 2.19M=0.2s
+
+2025-04-26 15:21:32 (1.11 MB/s) - ‘sp21.datastructur.es/materials/lab/lab6/img/remote-debug.png’ saved [199169/199169]
+
+--2025-04-26 15:21:32--  https://sp21.datastructur.es/materials/lab/lab8/img/ht-buckets.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 92535 (90K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab8/img/ht-buckets.png’
+
+     0K .......... .......... .......... .......... .......... 55%  530K 0s
+    50K .......... .......... .......... ..........           100% 19.2M=0.1s
+
+2025-04-26 15:21:33 (937 KB/s) - ‘sp21.datastructur.es/materials/lab/lab8/img/ht-buckets.png’ saved [92535/92535]
+
+--2025-04-26 15:21:33--  https://sp21.datastructur.es/materials/lectures/lec24/this%20xkcd
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 404 Not Found
+2025-04-26 15:21:33 ERROR 404: Not Found.
+
+--2025-04-26 15:21:33--  https://sp21.datastructur.es/materials/lectures/lec25/Fall%202013%20final
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 404 Not Found
+2025-04-26 15:21:34 ERROR 404: Not Found.
+
+--2025-04-26 15:21:34--  https://sp21.datastructur.es/materials/lectures/lec26/thisgraph%20for%20an%20example%20of%20one%20for%20which%20the%20MST%20is%20a%20SPT
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 404 Not Found
+2025-04-26 15:21:34 ERROR 404: Not Found.
+
+--2025-04-26 15:21:34--  https://sp21.datastructur.es/materials/lectures/lec26/Sharks%20and%20Minnows
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 404 Not Found
+2025-04-26 15:21:34 ERROR 404: Not Found.
+
+--2025-04-26 15:21:34--  https://sp21.datastructur.es/materials/lab/lab12/img/intelliJImport.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 15500 (15K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab12/img/intelliJImport.png’
+
+     0K .......... .....                                      100% 2.06M=0.007s
+
+2025-04-26 15:21:35 (2.06 MB/s) - ‘sp21.datastructur.es/materials/lab/lab12/img/intelliJImport.png’ saved [15500/15500]
+
+--2025-04-26 15:21:35--  https://sp21.datastructur.es/materials/lab/lab12/img/boringWorld.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7762 (7.6K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab12/img/boringWorld.png’
+
+     0K .......                                               100%  114M=0s
+
+2025-04-26 15:21:35 (114 MB/s) - ‘sp21.datastructur.es/materials/lab/lab12/img/boringWorld.png’ saved [7762/7762]
+
+--2025-04-26 15:21:35--  https://sp21.datastructur.es/materials/lab/lab12/img/randomWorld.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 74002 (72K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab12/img/randomWorld.png’
+
+     0K .......... .......... .......... .......... .......... 69%  679K 0s
+    50K .......... .......... ..                              100%  213M=0.07s
+
+2025-04-26 15:21:35 (980 KB/s) - ‘sp21.datastructur.es/materials/lab/lab12/img/randomWorld.png’ saved [74002/74002]
+
+--2025-04-26 15:21:35--  https://sp21.datastructur.es/materials/lab/lab12/img/exampleWorld.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 79252 (77K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab12/img/exampleWorld.png’
+
+     0K .......... .......... .......... .......... .......... 64% 1.19M 0s
+    50K .......... .......... .......                         100%  107M=0.04s
+
+2025-04-26 15:21:36 (1.83 MB/s) - ‘sp21.datastructur.es/materials/lab/lab12/img/exampleWorld.png’ saved [79252/79252]
+
+--2025-04-26 15:21:36--  https://sp21.datastructur.es/materials/lab/lab12/img/exampleWorldSideLength2.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 33895 (33K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab12/img/exampleWorldSideLength2.png’
+
+     0K .......... .......... .......... ...                  100% 1.39M=0.02s
+
+2025-04-26 15:21:36 (1.39 MB/s) - ‘sp21.datastructur.es/materials/lab/lab12/img/exampleWorldSideLength2.png’ saved [33895/33895]
+
+--2025-04-26 15:21:36--  https://sp21.datastructur.es/materials/lab/lab12/img/exampleWorldSideLength4.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 138651 (135K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab12/img/exampleWorldSideLength4.png’
+
+     0K .......... .......... .......... .......... .......... 36%  247K 0s
+    50K .......... .......... .......... .......... .......... 73%  214M 0s
+   100K .......... .......... .......... .....                100% 3.47M=0.2s
+
+2025-04-26 15:21:37 (636 KB/s) - ‘sp21.datastructur.es/materials/lab/lab12/img/exampleWorldSideLength4.png’ saved [138651/138651]
+
+--2025-04-26 15:21:37--  https://sp21.datastructur.es/materials/proj/proj3/img/ngrok.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 215600 (211K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/proj/proj3/img/ngrok.png’
+
+     0K .......... .......... .......... .......... .......... 23%  581K 0s
+    50K .......... .......... .......... .......... .......... 47%  894K 0s
+   100K .......... .......... .......... .......... .......... 71%  466K 0s
+   150K .......... .......... .......... .......... .......... 94%  172M 0s
+   200K ..........                                            100%  191M=0.2s
+
+2025-04-26 15:21:37 (843 KB/s) - ‘sp21.datastructur.es/materials/proj/proj3/img/ngrok.png’ saved [215600/215600]
+
+--2025-04-26 15:21:37--  https://sp21.datastructur.es/materials/lab/lab13/img/memory-game-example.gif
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2276162 (2.2M) [image/gif]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab13/img/memory-game-example.gif’
+
+     0K .......... .......... .......... .......... ..........  2%  973K 2s
+    50K .......... .......... .......... .......... ..........  4%  652K 3s
+   100K .......... .......... .......... .......... ..........  6% 1.68M 2s
+   150K .......... .......... .......... .......... ..........  8%  730K 2s
+   200K .......... .......... .......... .......... .......... 11% 1017K 2s
+   250K .......... .......... .......... .......... .......... 13%  634K 2s
+   300K .......... .......... .......... .......... .......... 15% 2.55M 2s
+   350K .......... .......... .......... .......... .......... 17% 1020K 2s
+   400K .......... .......... .......... .......... .......... 20% 1.02M 2s
+   450K .......... .......... .......... .......... .......... 22% 1.05M 2s
+   500K .......... .......... .......... .......... .......... 24% 1.04M 2s
+   550K .......... .......... .......... .......... .......... 26%  996K 2s
+   600K .......... .......... .......... .......... .......... 29%  449K 2s
+   650K .......... .......... .......... .......... .......... 31% 64.9M 2s
+   700K .......... .......... .......... .......... .......... 33% 1.11M 2s
+   750K .......... .......... .......... .......... .......... 35% 1.42M 1s
+   800K .......... .......... .......... .......... .......... 38%  352K 2s
+   850K .......... .......... .......... .......... .......... 40% 73.9M 1s
+   900K .......... .......... .......... .......... .......... 42% 58.7M 1s
+   950K .......... .......... .......... .......... .......... 44% 1.42M 1s
+  1000K .......... .......... .......... .......... .......... 47%  731K 1s
+  1050K .......... .......... .......... .......... .......... 49% 1.21M 1s
+  1100K .......... .......... .......... .......... .......... 51% 1.11M 1s
+  1150K .......... .......... .......... .......... .......... 53% 1.09M 1s
+  1200K .......... .......... .......... .......... .......... 56% 1.80M 1s
+  1250K .......... .......... .......... .......... .......... 58% 1.09M 1s
+  1300K .......... .......... .......... .......... .......... 60% 1.50M 1s
+  1350K .......... .......... .......... .......... .......... 62% 1.58M 1s
+  1400K .......... .......... .......... .......... .......... 65%  715K 1s
+  1450K .......... .......... .......... .......... .......... 67% 1.89M 1s
+  1500K .......... .......... .......... .......... .......... 69% 1.70M 1s
+  1550K .......... .......... .......... .......... .......... 71% 1.08M 1s
+  1600K .......... .......... .......... .......... .......... 74% 2.04M 1s
+  1650K .......... .......... .......... .......... .......... 76% 1.03M 0s
+  1700K .......... .......... .......... .......... .......... 78% 1.31M 0s
+  1750K .......... .......... .......... .......... .......... 80% 1.31K 9s
+  1800K .......... .......... .......... .......... .......... 83% 1.52M 8s
+  1850K .......... .......... .......... .......... .......... 85% 2.18M 7s
+  1900K .......... .......... .......... .......... .......... 87%  659K 6s
+  1950K .......... .......... .......... .......... .......... 89% 2.06M 4s
+  2000K .......... .......... .......... .......... .......... 92%  551K 3s
+  2050K .......... .......... .......... .......... .......... 94% 1.53M 2s
+  2100K .......... .......... .......... .......... .......... 96%  279K 1s
+  2150K .......... .......... .......... .......... .......... 98%  480K 0s
+  2200K .......... .......... ..                              100% 27.5M=40s
+
+2025-04-26 15:22:18 (55.0 KB/s) - ‘sp21.datastructur.es/materials/lab/lab13/img/memory-game-example.gif’ saved [2276162/2276162]
+
+--2025-04-26 15:22:18--  https://sp21.datastructur.es/materials/lab/lab13/img/image.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 56726 (55K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab13/img/image.png’
+
+     0K .......... .......... .......... .......... .......... 90% 1.82M 0s
+    50K .....                                                 100%  108K=0.03s
+
+2025-04-26 15:22:19 (2.02 MB/s) - ‘sp21.datastructur.es/materials/lab/lab13/img/image.png’ saved [56726/56726]
+
+--2025-04-26 15:22:19--  https://sp21.datastructur.es/materials/discussion/disc01.pdf
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 123550 (121K) [application/pdf]
+Saving to: ‘sp21.datastructur.es/materials/discussion/disc01.pdf’
+
+     0K .......... .......... .......... .......... .......... 41%  941K 0s
+    50K .......... .......... .......... .......... .......... 82% 1.39M 0s
+   100K .......... ..........                                 100%  124M=0.09s
+
+2025-04-26 15:22:19 (1.33 MB/s) - ‘sp21.datastructur.es/materials/discussion/disc01.pdf’ saved [123550/123550]
+
+--2025-04-26 15:22:19--  https://sp21.datastructur.es/materials/lab/lab1/lab1.html
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘sp21.datastructur.es/materials/lab/lab1/lab1.html’ not modified on server. Omitting download.
+
+--2025-04-26 15:22:20--  https://sp21.datastructur.es/materials/proj/proj0/proj0.html
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘sp21.datastructur.es/materials/proj/proj0/proj0.html’ not modified on server. Omitting download.
+
+--2025-04-26 15:22:20--  https://sp21.datastructur.es/materials/lectures/lec4/lec4.html
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘sp21.datastructur.es/materials/lectures/lec4/lec4.html’ not modified on server. Omitting download.
+
+--2025-04-26 15:22:20--  https://sp21.datastructur.es/materials/lab/lab2/lab2.html
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘sp21.datastructur.es/materials/lab/lab2/lab2.html’ not modified on server. Omitting download.
+
+--2025-04-26 15:22:21--  https://sp21.datastructur.es/materials/lectures/lec5/lec5.html
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘sp21.datastructur.es/materials/lectures/lec5/lec5.html’ not modified on server. Omitting download.
+
+--2025-04-26 15:22:21--  https://sp21.datastructur.es/materials/lectures/lec6/lec6.html
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘sp21.datastructur.es/materials/lectures/lec6/lec6.html’ not modified on server. Omitting download.
+
+--2025-04-26 15:22:21--  https://sp21.datastructur.es/materials/proj/proj1/proj1.html
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘sp21.datastructur.es/materials/proj/proj1/proj1.html’ not modified on server. Omitting download.
+
+--2025-04-26 15:22:22--  https://sp21.datastructur.es/materials/lectures/lec7/lec7.html
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘sp21.datastructur.es/materials/lectures/lec7/lec7.html’ not modified on server. Omitting download.
+
+--2025-04-26 15:22:22--  https://sp21.datastructur.es/materials/lab/lab3/lab3.html
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘sp21.datastructur.es/materials/lab/lab3/lab3.html’ not modified on server. Omitting download.
+
+--2025-04-26 15:22:22--  https://sp21.datastructur.es/materials/lectures/lec8/lec8.html
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘sp21.datastructur.es/materials/lectures/lec8/lec8.html’ not modified on server. Omitting download.
+
+--2025-04-26 15:22:23--  https://sp21.datastructur.es/materials/lectures/lec9/lec9.html
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘sp21.datastructur.es/materials/lectures/lec9/lec9.html’ not modified on server. Omitting download.
+
+--2025-04-26 15:22:23--  https://sp21.datastructur.es/materials/lectures/lec10/lec10.html
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘sp21.datastructur.es/materials/lectures/lec10/lec10.html’ not modified on server. Omitting download.
+
+--2025-04-26 15:22:23--  https://sp21.datastructur.es/materials/lab/lab4/lab4.html
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘sp21.datastructur.es/materials/lab/lab4/lab4.html’ not modified on server. Omitting download.
+
+--2025-04-26 15:22:24--  https://sp21.datastructur.es/materials/lectures/lec11/lec11.html
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘sp21.datastructur.es/materials/lectures/lec11/lec11.html’ not modified on server. Omitting download.
+
+--2025-04-26 15:22:24--  https://sp21.datastructur.es/staff
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 56119 (55K) [text/html]
+Saving to: ‘sp21.datastructur.es/staff.html’
+
+     0K .......... .......... .......... .......... .......... 91% 1.68M 0s
+    50K ....                                                  100% 96.1K=0.03s
+
+2025-04-26 15:22:24 (1.84 MB/s) - ‘sp21.datastructur.es/staff.html’ saved [56119/56119]
+
+--2025-04-26 15:22:24--  https://sp21.datastructur.es/materials/guides/helped.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 22022 (22K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/guides/helped.png’
+
+     0K .......... .......... .                               100% 83.0M=0s
+
+2025-04-26 15:22:25 (83.0 MB/s) - ‘sp21.datastructur.es/materials/guides/helped.png’ saved [22022/22022]
+
+--2025-04-26 15:22:25--  https://sp21.datastructur.es/materials/guides/resolved.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 22986 (22K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/guides/resolved.png’
+
+     0K .......... .......... ..                              100% 14.8M=0.001s
+
+2025-04-26 15:22:25 (14.8 MB/s) - ‘sp21.datastructur.es/materials/guides/resolved.png’ saved [22986/22986]
+
+--2025-04-26 15:22:25--  https://sp21.datastructur.es/materials/guides/esca.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 22762 (22K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/guides/esca.png’
+
+     0K .......... .......... ..                              100% 47.5M=0s
+
+2025-04-26 15:22:26 (47.5 MB/s) - ‘sp21.datastructur.es/materials/guides/esca.png’ saved [22762/22762]
+
+--2025-04-26 15:22:26--  https://sp21.datastructur.es/materials/guides/escres.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23590 (23K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/guides/escres.png’
+
+     0K .......... .......... ...                             100% 1.73M=0.01s
+
+2025-04-26 15:22:26 (1.73 MB/s) - ‘sp21.datastructur.es/materials/guides/escres.png’ saved [23590/23590]
+
+--2025-04-26 15:22:26--  https://sp21.datastructur.es/materials/guides/img/debugging-stack-trace.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 38147 (37K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/guides/img/debugging-stack-trace.png’
+
+     0K .......... .......... .......... .......              100% 1.34M=0.03s
+
+2025-04-26 15:22:26 (1.34 MB/s) - ‘sp21.datastructur.es/materials/guides/img/debugging-stack-trace.png’ saved [38147/38147]
+
+--2025-04-26 15:22:26--  https://sp21.datastructur.es/materials/guides/img/debugging-edit-configurations.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 313268 (306K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/guides/img/debugging-edit-configurations.png’
+
+     0K .......... .......... .......... .......... .......... 16%  982K 0s
+    50K .......... .......... .......... .......... .......... 32% 2.13M 0s
+   100K .......... .......... .......... .......... .......... 49% 1.01M 0s
+   150K .......... .......... .......... .......... .......... 65% 1.32M 0s
+   200K .......... .......... .......... .......... .......... 81% 1.76M 0s
+   250K .......... .......... .......... .......... .......... 98% 2.79M 0s
+   300K .....                                                 100%  119K=0.2s
+
+2025-04-26 15:22:27 (1.46 MB/s) - ‘sp21.datastructur.es/materials/guides/img/debugging-edit-configurations.png’ saved [313268/313268]
+
+--2025-04-26 15:22:27--  https://sp21.datastructur.es/materials/guides/img/debugging-normal-breakpoint.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 40436 (39K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/guides/img/debugging-normal-breakpoint.png’
+
+     0K .......... .......... .......... .........            100% 1.14M=0.03s
+
+2025-04-26 15:22:27 (1.14 MB/s) - ‘sp21.datastructur.es/materials/guides/img/debugging-normal-breakpoint.png’ saved [40436/40436]
+
+--2025-04-26 15:22:27--  https://sp21.datastructur.es/materials/guides/img/debugging-conditional-breakpoint.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 53282 (52K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/guides/img/debugging-conditional-breakpoint.png’
+
+     0K .......... .......... .......... .......... .......... 96% 2.35M 0s
+    50K ..                                                    100% 40.7K=0.02s
+
+2025-04-26 15:22:28 (2.44 MB/s) - ‘sp21.datastructur.es/materials/guides/img/debugging-conditional-breakpoint.png’ saved [53282/53282]
+
+--2025-04-26 15:22:28--  https://sp21.datastructur.es/materials/guides/img/debugging-top-toolbar.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 6392 (6.2K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/guides/img/debugging-top-toolbar.png’
+
+     0K ......                                                100%  113M=0s
+
+2025-04-26 15:22:28 (113 MB/s) - ‘sp21.datastructur.es/materials/guides/img/debugging-top-toolbar.png’ saved [6392/6392]
+
+--2025-04-26 15:22:28--  https://sp21.datastructur.es/materials/guides/img/debugging-left-toolbar.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 11526 (11K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/guides/img/debugging-left-toolbar.png’
+
+     0K .......... .                                          100%  174M=0s
+
+2025-04-26 15:22:28 (174 MB/s) - ‘sp21.datastructur.es/materials/guides/img/debugging-left-toolbar.png’ saved [11526/11526]
+
+--2025-04-26 15:22:28--  https://sp21.datastructur.es/materials/guides/img/debugging-debug-view.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 97237 (95K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/guides/img/debugging-debug-view.png’
+
+     0K .......... .......... .......... .......... .......... 52% 1.24M 0s
+    50K .......... .......... .......... .......... ....      100% 2.59M=0.06s
+
+2025-04-26 15:22:29 (1.65 MB/s) - ‘sp21.datastructur.es/materials/guides/img/debugging-debug-view.png’ saved [97237/97237]
+
+--2025-04-26 15:22:29--  https://sp21.datastructur.es/materials/guides/img/debugging-evaluate-expression.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 462962 (452K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/guides/img/debugging-evaluate-expression.png’
+
+     0K .......... .......... .......... .......... .......... 11% 1.03M 0s
+    50K .......... .......... .......... .......... .......... 22% 1.54M 0s
+   100K .......... .......... .......... .......... .......... 33% 2.70M 0s
+   150K .......... .......... .......... .......... .......... 44% 1.01M 0s
+   200K .......... .......... .......... .......... .......... 55% 2.90M 0s
+   250K .......... .......... .......... .......... .......... 66%  616K 0s
+   300K .......... .......... .......... .......... .......... 77% 1.17M 0s
+   350K .......... .......... .......... .......... .......... 88% 1.11M 0s
+   400K .......... .......... .......... .......... .......... 99% 3.30M 0s
+   450K ..                                                    100% 42.2K=0.3s
+
+2025-04-26 15:22:30 (1.28 MB/s) - ‘sp21.datastructur.es/materials/guides/img/debugging-evaluate-expression.png’ saved [462962/462962]
+
+--2025-04-26 15:22:30--  https://sp21.datastructur.es/materials/guides/img/debugging-code-state.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 36485 (36K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/guides/img/debugging-code-state.png’
+
+     0K .......... .......... .......... .....                100% 1.94M=0.02s
+
+2025-04-26 15:22:30 (1.94 MB/s) - ‘sp21.datastructur.es/materials/guides/img/debugging-code-state.png’ saved [36485/36485]
+
+--2025-04-26 15:22:30--  https://sp21.datastructur.es/materials/guides/img/intellij-import-error.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 96126 (94K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/guides/img/intellij-import-error.png’
+
+     0K .......... .......... .......... .......... .......... 53% 1.21M 0s
+    50K .......... .......... .......... .......... ...       100% 5.33M=0.05s
+
+2025-04-26 15:22:30 (1.89 MB/s) - ‘sp21.datastructur.es/materials/guides/img/intellij-import-error.png’ saved [96126/96126]
+
+--2025-04-26 15:22:30--  https://sp21.datastructur.es/materials/guides/img/intellij-mark-dir-as.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 202919 (198K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/guides/img/intellij-mark-dir-as.png’
+
+     0K .......... .......... .......... .......... .......... 25% 1.13M 0s
+    50K .......... .......... .......... .......... .......... 50% 1.51M 0s
+   100K .......... .......... .......... .......... .......... 75% 1.21M 0s
+   150K .......... .......... .......... .......... ........  100% 3.76M=0.1s
+
+2025-04-26 15:22:31 (1.50 MB/s) - ‘sp21.datastructur.es/materials/guides/img/intellij-mark-dir-as.png’ saved [202919/202919]
+
+--2025-04-26 15:22:31--  https://sp21.datastructur.es/materials/lab/lab2setup/lab2setup.html
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘sp21.datastructur.es/materials/lab/lab2setup/lab2setup.html’ not modified on server. Omitting download.
+
+--2025-04-26 15:22:31--  https://sp21.datastructur.es/materials/guides/img/intellij-missing-javalib.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 193923 (189K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/guides/img/intellij-missing-javalib.png’
+
+     0K .......... .......... .......... .......... .......... 26% 1.05M 0s
+    50K .......... .......... .......... .......... .......... 52% 1.50M 0s
+   100K .......... .......... .......... .......... .......... 79% 2.93M 0s
+   150K .......... .......... .......... .........            100% 2.91M=0.1s
+
+2025-04-26 15:22:32 (1.70 MB/s) - ‘sp21.datastructur.es/materials/guides/img/intellij-missing-javalib.png’ saved [193923/193923]
+
+--2025-04-26 15:22:32--  https://sp21.datastructur.es/materials/guides/img/intellij-junit-dnt-exist.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 35104 (34K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/guides/img/intellij-junit-dnt-exist.png’
+
+     0K .......... .......... .......... ....                 100% 2.20M=0.02s
+
+2025-04-26 15:22:32 (2.20 MB/s) - ‘sp21.datastructur.es/materials/guides/img/intellij-junit-dnt-exist.png’ saved [35104/35104]
+
+--2025-04-26 15:22:32--  https://sp21.datastructur.es/materials/guides/img/intellij-adding-deps.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 77350 (76K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/guides/img/intellij-adding-deps.png’
+
+     0K .......... .......... .......... .......... .......... 66% 21.0M 0s
+    50K .......... .......... .....                           100%  121M=0.003s
+
+2025-04-26 15:22:32 (29.2 MB/s) - ‘sp21.datastructur.es/materials/guides/img/intellij-adding-deps.png’ saved [77350/77350]
+
+--2025-04-26 15:22:32--  https://sp21.datastructur.es/materials/guides/img/intellij-out-not-specified.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 18040 (18K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/guides/img/intellij-out-not-specified.png’
+
+     0K .......... .......                                    100% 18.5M=0.001s
+
+2025-04-26 15:22:33 (18.5 MB/s) - ‘sp21.datastructur.es/materials/guides/img/intellij-out-not-specified.png’ saved [18040/18040]
+
+--2025-04-26 15:22:33--  https://sp21.datastructur.es/materials/guides/img/intellij-specifying-out.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 94523 (92K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/guides/img/intellij-specifying-out.png’
+
+     0K .......... .......... .......... .......... .......... 54% 1.41M 0s
+    50K .......... .......... .......... .......... ..        100% 4.05M=0.04s
+
+2025-04-26 15:22:33 (2.02 MB/s) - ‘sp21.datastructur.es/materials/guides/img/intellij-specifying-out.png’ saved [94523/94523]
+
+--2025-04-26 15:22:33--  https://sp21.datastructur.es/materials/guides/make-img/windows-1.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 50352 (49K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/guides/make-img/windows-1.png’
+
+     0K .......... .......... .......... .......... ......... 100% 52.8M=0.001s
+
+2025-04-26 15:22:33 (52.8 MB/s) - ‘sp21.datastructur.es/materials/guides/make-img/windows-1.png’ saved [50352/50352]
+
+--2025-04-26 15:22:33--  https://sp21.datastructur.es/materials/guides/make-img/windows-2.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 46359 (45K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/guides/make-img/windows-2.png’
+
+     0K .......... .......... .......... .......... .....     100% 1.78M=0.02s
+
+2025-04-26 15:22:34 (1.78 MB/s) - ‘sp21.datastructur.es/materials/guides/make-img/windows-2.png’ saved [46359/46359]
+
+--2025-04-26 15:22:34--  https://sp21.datastructur.es/materials/guides/make-img/windows-3.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 63042 (62K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/guides/make-img/windows-3.png’
+
+     0K .......... .......... .......... .......... .......... 81% 1.33M 0s
+    50K .......... .                                          100%  231K=0.04s
+
+2025-04-26 15:22:34 (1.64 MB/s) - ‘sp21.datastructur.es/materials/guides/make-img/windows-3.png’ saved [63042/63042]
+
+--2025-04-26 15:22:34--  https://sp21.datastructur.es/materials/exam/image/proctor1.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1885363 (1.8M) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/exam/image/proctor1.png’
+
+     0K .......... .......... .......... .......... ..........  2%  471K 4s
+    50K .......... .......... .......... .......... ..........  5% 12.6M 2s
+   100K .......... .......... .......... .......... ..........  8% 2.07M 2s
+   150K .......... .......... .......... .......... .......... 10% 5.40M 1s
+   200K .......... .......... .......... .......... .......... 13% 1.19M 1s
+   250K .......... .......... .......... .......... .......... 16% 1.46M 1s
+   300K .......... .......... .......... .......... .......... 19% 3.07M 1s
+   350K .......... .......... .......... .......... .......... 21% 1.06M 1s
+   400K .......... .......... .......... .......... .......... 24% 1.84M 1s
+   450K .......... .......... .......... .......... .......... 27% 2.88M 1s
+   500K .......... .......... .......... .......... .......... 29% 2.38M 1s
+   550K .......... .......... .......... .......... .......... 32% 1.33M 1s
+   600K .......... .......... .......... .......... .......... 35% 1.30M 1s
+   650K .......... .......... .......... .......... .......... 38% 1.67M 1s
+   700K .......... .......... .......... .......... .......... 40% 2.53M 1s
+   750K .......... .......... .......... .......... .......... 43% 1.16M 1s
+   800K .......... .......... .......... .......... .......... 46% 2.79M 1s
+   850K .......... .......... .......... .......... .......... 48% 2.50M 1s
+   900K .......... .......... .......... .......... .......... 51% 1.56M 1s
+   950K .......... .......... .......... .......... .......... 54% 1.74M 1s
+  1000K .......... .......... .......... .......... .......... 57% 1.54M 0s
+  1050K .......... .......... .......... .......... .......... 59% 1.69M 0s
+  1100K .......... .......... .......... .......... .......... 62% 1.63M 0s
+  1150K .......... .......... .......... .......... .......... 65% 3.01M 0s
+  1200K .......... .......... .......... .......... .......... 67% 1.68M 0s
+  1250K .......... .......... .......... .......... .......... 70% 1.02M 0s
+  1300K .......... .......... .......... .......... .......... 73% 3.70M 0s
+  1350K .......... .......... .......... .......... .......... 76% 3.11M 0s
+  1400K .......... .......... .......... .......... .......... 78% 1.19M 0s
+  1450K .......... .......... .......... .......... .......... 81% 1.71M 0s
+  1500K .......... .......... .......... .......... .......... 84% 7.17M 0s
+  1550K .......... .......... .......... .......... .......... 86% 2.26M 0s
+  1600K .......... .......... .......... .......... .......... 89% 1.57M 0s
+  1650K .......... .......... .......... .......... .......... 92% 1.59M 0s
+  1700K .......... .......... .......... .......... .......... 95% 4.20M 0s
+  1750K .......... .......... .......... .......... .......... 97% 1.19M 0s
+  1800K .......... .......... .......... .......... .         100% 6.21M=1.0s
+
+2025-04-26 15:22:36 (1.74 MB/s) - ‘sp21.datastructur.es/materials/exam/image/proctor1.png’ saved [1885363/1885363]
+
+--2025-04-26 15:22:36--  https://sp21.datastructur.es/materials/exam/image/proctor2.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1534844 (1.5M) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/exam/image/proctor2.png’
+
+     0K .......... .......... .......... .......... ..........  3% 2.58M 1s
+    50K .......... .......... .......... .......... ..........  6% 2.25M 1s
+   100K .......... .......... .......... .......... .......... 10% 1.51M 1s
+   150K .......... .......... .......... .......... .......... 13% 3.97M 1s
+   200K .......... .......... .......... .......... .......... 16% 2.93M 1s
+   250K .......... .......... .......... .......... .......... 20% 2.14M 0s
+   300K .......... .......... .......... .......... .......... 23% 1.53M 1s
+   350K .......... .......... .......... .......... .......... 26% 2.08M 0s
+   400K .......... .......... .......... .......... .......... 30% 3.22M 0s
+   450K .......... .......... .......... .......... .......... 33% 2.41M 0s
+   500K .......... .......... .......... .......... .......... 36% 1.84M 0s
+   550K .......... .......... .......... .......... .......... 40% 1.60M 0s
+   600K .......... .......... .......... .......... .......... 43% 6.18M 0s
+   650K .......... .......... .......... .......... .......... 46% 2.65M 0s
+   700K .......... .......... .......... .......... .......... 50% 1.77M 0s
+   750K .......... .......... .......... .......... .......... 53% 2.75M 0s
+   800K .......... .......... .......... .......... .......... 56% 1.69M 0s
+   850K .......... .......... .......... .......... .......... 60% 1.66M 0s
+   900K .......... .......... .......... .......... .......... 63% 9.58M 0s
+   950K .......... .......... .......... .......... .......... 66%  893K 0s
+  1000K .......... .......... .......... .......... .......... 70% 3.75M 0s
+  1050K .......... .......... .......... .......... .......... 73% 9.16M 0s
+  1100K .......... .......... .......... .......... .......... 76% 11.4M 0s
+  1150K .......... .......... .......... .......... .......... 80% 1017K 0s
+  1200K .......... .......... .......... .......... .......... 83% 6.06M 0s
+  1250K .......... .......... .......... .......... .......... 86%  820K 0s
+  1300K .......... .......... .......... .......... .......... 90%  108M 0s
+  1350K .......... .......... .......... .......... .......... 93% 14.4M 0s
+  1400K .......... .......... .......... .......... .......... 96% 12.2M 0s
+  1450K .......... .......... .......... .......... ........  100% 4.31M=0.6s
+
+2025-04-26 15:22:37 (2.35 MB/s) - ‘sp21.datastructur.es/materials/exam/image/proctor2.png’ saved [1534844/1534844]
+
+--2025-04-26 15:22:37--  https://sp21.datastructur.es/materials/exam/image/proctor3.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 551421 (538K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/exam/image/proctor3.png’
+
+     0K .......... .......... .......... .......... ..........  9% 2.93M 0s
+    50K .......... .......... .......... .......... .......... 18% 3.13M 0s
+   100K .......... .......... .......... .......... .......... 27% 1.93M 0s
+   150K .......... .......... .......... .......... .......... 37% 7.22M 0s
+   200K .......... .......... .......... .......... .......... 46% 1.76M 0s
+   250K .......... .......... .......... .......... .......... 55% 1.17M 0s
+   300K .......... .......... .......... .......... .......... 64% 1.83M 0s
+   350K .......... .......... .......... .......... .......... 74% 5.52M 0s
+   400K .......... .......... .......... .......... .......... 83% 5.20M 0s
+   450K .......... .......... .......... .......... .......... 92% 24.6M 0s
+   500K .......... .......... .......... ........             100% 7.06M=0.2s
+
+2025-04-26 15:22:37 (2.83 MB/s) - ‘sp21.datastructur.es/materials/exam/image/proctor3.png’ saved [551421/551421]
+
+--2025-04-26 15:22:37--  https://sp21.datastructur.es/materials/exam/image/proctor4.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1116466 (1.1M) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/exam/image/proctor4.png’
+
+     0K .......... .......... .......... .......... ..........  4% 1.55M 1s
+    50K .......... .......... .......... .......... ..........  9% 2.68M 0s
+   100K .......... .......... .......... .......... .......... 13% 2.81M 0s
+   150K .......... .......... .......... .......... .......... 18% 5.50M 0s
+   200K .......... .......... .......... .......... .......... 22% 6.66M 0s
+   250K .......... .......... .......... .......... .......... 27% 1.96M 0s
+   300K .......... .......... .......... .......... .......... 32% 2.37M 0s
+   350K .......... .......... .......... .......... .......... 36% 3.01M 0s
+   400K .......... .......... .......... .......... .......... 41% 2.32M 0s
+   450K .......... .......... .......... .......... .......... 45% 4.08M 0s
+   500K .......... .......... .......... .......... .......... 50% 2.55M 0s
+   550K .......... .......... .......... .......... .......... 55% 1.61M 0s
+   600K .......... .......... .......... .......... .......... 59% 6.24M 0s
+   650K .......... .......... .......... .......... .......... 64% 5.06M 0s
+   700K .......... .......... .......... .......... .......... 68% 2.07M 0s
+   750K .......... .......... .......... .......... .......... 73% 3.83M 0s
+   800K .......... .......... .......... .......... .......... 77% 2.04M 0s
+   850K .......... .......... .......... .......... .......... 82% 5.22M 0s
+   900K .......... .......... .......... .......... .......... 87% 5.18M 0s
+   950K .......... .......... .......... .......... .......... 91% 2.90M 0s
+  1000K .......... .......... .......... .......... .......... 96% 3.22M 0s
+  1050K .......... .......... .......... ..........           100% 2.96M=0.4s
+
+2025-04-26 15:22:38 (2.88 MB/s) - ‘sp21.datastructur.es/materials/exam/image/proctor4.png’ saved [1116466/1116466]
+
+--2025-04-26 15:22:38--  https://sp21.datastructur.es/materials/exam/image/proctor5.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1718012 (1.6M) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/exam/image/proctor5.png’
+
+     0K .......... .......... .......... .......... ..........  2% 1.92M 1s
+    50K .......... .......... .......... .......... ..........  5% 3.73M 1s
+   100K .......... .......... .......... .......... ..........  8% 3.19M 1s
+   150K .......... .......... .......... .......... .......... 11% 2.74M 1s
+   200K .......... .......... .......... .......... .......... 14%  934K 1s
+   250K .......... .......... .......... .......... .......... 17% 15.1M 1s
+   300K .......... .......... .......... .......... .......... 20% 62.4M 0s
+   350K .......... .......... .......... .......... .......... 23% 5.15M 0s
+   400K .......... .......... .......... .......... .......... 26%  502K 1s
+   450K .......... .......... .......... .......... .......... 29% 4.79M 1s
+   500K .......... .......... .......... .......... .......... 32% 6.22M 1s
+   550K .......... .......... .......... .......... .......... 35% 1.74M 1s
+   600K .......... .......... .......... .......... .......... 38% 3.89M 0s
+   650K .......... .......... .......... .......... .......... 41% 42.2M 0s
+   700K .......... .......... .......... .......... .......... 44% 41.3M 0s
+   750K .......... .......... .......... .......... .......... 47% 2.87M 0s
+   800K .......... .......... .......... .......... .......... 50% 1.77M 0s
+   850K .......... .......... .......... .......... .......... 53% 10.4M 0s
+   900K .......... .......... .......... .......... .......... 56% 7.10M 0s
+   950K .......... .......... .......... .......... .......... 59% 3.77M 0s
+  1000K .......... .......... .......... .......... .......... 62% 3.52M 0s
+  1050K .......... .......... .......... .......... .......... 65% 3.47M 0s
+  1100K .......... .......... .......... .......... .......... 68% 4.07M 0s
+  1150K .......... .......... .......... .......... .......... 71% 1.77M 0s
+  1200K .......... .......... .......... .......... .......... 74% 1.53M 0s
+  1250K .......... .......... .......... .......... .......... 77% 3.38M 0s
+  1300K .......... .......... .......... .......... .......... 80% 2.21M 0s
+  1350K .......... .......... .......... .......... .......... 83% 6.62M 0s
+  1400K .......... .......... .......... .......... .......... 86% 1.75M 0s
+  1450K .......... .......... .......... .......... .......... 89% 3.44M 0s
+  1500K .......... .......... .......... .......... .......... 92% 5.02M 0s
+  1550K .......... .......... .......... .......... .......... 95% 2.83M 0s
+  1600K .......... .......... .......... .......... .......... 98% 1.52M 0s
+  1650K .......... .......... .......                         100%  115M=0.6s
+
+2025-04-26 15:22:39 (2.67 MB/s) - ‘sp21.datastructur.es/materials/exam/image/proctor5.png’ saved [1718012/1718012]
+
+--2025-04-26 15:22:39--  https://sp21.datastructur.es/materials/exam/image/proctor6.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2730127 (2.6M) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/exam/image/proctor6.png’
+
+     0K .......... .......... .......... .......... ..........  1% 2.69M 1s
+    50K .......... .......... .......... .......... ..........  3% 3.37M 1s
+   100K .......... .......... .......... .......... ..........  5% 4.04M 1s
+   150K .......... .......... .......... .......... ..........  7% 3.16M 1s
+   200K .......... .......... .......... .......... ..........  9% 1.10M 1s
+   250K .......... .......... .......... .......... .......... 11% 56.6M 1s
+   300K .......... .......... .......... .......... .......... 13% 11.1M 1s
+   350K .......... .......... .......... .......... .......... 15% 2.59M 1s
+   400K .......... .......... .......... .......... .......... 16% 5.20M 1s
+   450K .......... .......... .......... .......... .......... 18% 2.19M 1s
+   500K .......... .......... .......... .......... .......... 20% 5.90M 1s
+   550K .......... .......... .......... .......... .......... 22% 1.74M 1s
+   600K .......... .......... .......... .......... .......... 24% 7.08M 1s
+   650K .......... .......... .......... .......... .......... 26% 4.05M 1s
+   700K .......... .......... .......... .......... .......... 28%  601K 1s
+   750K .......... .......... .......... .......... .......... 30% 9.99M 1s
+   800K .......... .......... .......... .......... .......... 31% 4.20M 1s
+   850K .......... .......... .......... .......... .......... 33% 30.7M 1s
+   900K .......... .......... .......... .......... .......... 35% 5.47M 1s
+   950K .......... .......... .......... .......... .......... 37% 11.8M 1s
+  1000K .......... .......... .......... .......... .......... 39% 4.76M 1s
+  1050K .......... .......... .......... .......... .......... 41% 1.04M 1s
+  1100K .......... .......... .......... .......... .......... 43% 3.34M 1s
+  1150K .......... .......... .......... .......... .......... 45% 9.32M 0s
+  1200K .......... .......... .......... .......... .......... 46% 1.66M 0s
+  1250K .......... .......... .......... .......... .......... 48% 4.10M 0s
+  1300K .......... .......... .......... .......... .......... 50% 12.5M 0s
+  1350K .......... .......... .......... .......... .......... 52% 22.7M 0s
+  1400K .......... .......... .......... .......... .......... 54% 5.15M 0s
+  1450K .......... .......... .......... .......... .......... 56% 1.71M 0s
+  1500K .......... .......... .......... .......... .......... 58% 2.27M 0s
+  1550K .......... .......... .......... .......... .......... 60% 3.44M 0s
+  1600K .......... .......... .......... .......... .......... 61% 3.79M 0s
+  1650K .......... .......... .......... .......... .......... 63% 1.90M 0s
+  1700K .......... .......... .......... .......... .......... 65% 16.4M 0s
+  1750K .......... .......... .......... .......... .......... 67% 3.42M 0s
+  1800K .......... .......... .......... .......... .......... 69% 2.25M 0s
+  1850K .......... .......... .......... .......... .......... 71% 4.23M 0s
+  1900K .......... .......... .......... .......... .......... 73% 2.03M 0s
+  1950K .......... .......... .......... .......... .......... 75% 3.75M 0s
+  2000K .......... .......... .......... .......... .......... 76% 4.72M 0s
+  2050K .......... .......... .......... .......... .......... 78% 5.08M 0s
+  2100K .......... .......... .......... .......... .......... 80% 1.98M 0s
+  2150K .......... .......... .......... .......... .......... 82% 6.30M 0s
+  2200K .......... .......... .......... .......... .......... 84% 2.14M 0s
+  2250K .......... .......... .......... .......... .......... 86% 7.71M 0s
+  2300K .......... .......... .......... .......... .......... 88% 3.42M 0s
+  2350K .......... .......... .......... .......... .......... 90% 3.72M 0s
+  2400K .......... .......... .......... .......... .......... 91% 2.91M 0s
+  2450K .......... .......... .......... .......... .......... 93% 1.71M 0s
+  2500K .......... .......... .......... .......... .......... 95% 17.8M 0s
+  2550K .......... .......... .......... .......... .......... 97% 8.95M 0s
+  2600K .......... .......... .......... .......... .......... 99% 1.06M 0s
+  2650K .......... ......                                     100% 40.7M=0.9s
+
+2025-04-26 15:22:40 (3.02 MB/s) - ‘sp21.datastructur.es/materials/exam/image/proctor6.png’ saved [2730127/2730127]
+
+--2025-04-26 15:22:40--  https://sp21.datastructur.es/materials/exam/image/proctor7.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1300368 (1.2M) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/exam/image/proctor7.png’
+
+     0K .......... .......... .......... .......... ..........  3% 2.21M 1s
+    50K .......... .......... .......... .......... ..........  7% 5.16M 0s
+   100K .......... .......... .......... .......... .......... 11% 1.73M 0s
+   150K .......... .......... .......... .......... .......... 15% 6.04M 0s
+   200K .......... .......... .......... .......... .......... 19% 2.51M 0s
+   250K .......... .......... .......... .......... .......... 23% 11.2M 0s
+   300K .......... .......... .......... .......... .......... 27% 3.47M 0s
+   350K .......... .......... .......... .......... .......... 31% 2.61M 0s
+   400K .......... .......... .......... .......... .......... 35% 1.99M 0s
+   450K .......... .......... .......... .......... .......... 39% 2.86M 0s
+   500K .......... .......... .......... .......... .......... 43% 11.5M 0s
+   550K .......... .......... .......... .......... .......... 47% 6.75M 0s
+   600K .......... .......... .......... .......... .......... 51% 2.13M 0s
+   650K .......... .......... .......... .......... .......... 55% 3.11M 0s
+   700K .......... .......... .......... .......... .......... 59% 5.60M 0s
+   750K .......... .......... .......... .......... .......... 62% 2.29M 0s
+   800K .......... .......... .......... .......... .......... 66% 10.0M 0s
+   850K .......... .......... .......... .......... .......... 70% 2.19M 0s
+   900K .......... .......... .......... .......... .......... 74% 7.93M 0s
+   950K .......... .......... .......... .......... .......... 78% 1.62M 0s
+  1000K .......... .......... .......... .......... .......... 82% 5.54M 0s
+  1050K .......... .......... .......... .......... .......... 86% 4.22M 0s
+  1100K .......... .......... .......... .......... .......... 90% 2.57M 0s
+  1150K .......... .......... .......... .......... .......... 94% 5.07M 0s
+  1200K .......... .......... .......... .......... .......... 98% 3.07M 0s
+  1250K .......... .........                                  100% 10.6M=0.4s
+
+2025-04-26 15:22:41 (3.30 MB/s) - ‘sp21.datastructur.es/materials/exam/image/proctor7.png’ saved [1300368/1300368]
+
+--2025-04-26 15:22:41--  https://sp21.datastructur.es/materials/proj/proj2/capers-example.html
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘sp21.datastructur.es/materials/proj/proj2/capers-example.html’ not modified on server. Omitting download.
+
+--2025-04-26 15:22:41--  https://sp21.datastructur.es/materials/guides/img/file-status.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 13727 (13K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/guides/img/file-status.png’
+
+     0K .......... ...                                        100%  409M=0s
+
+2025-04-26 15:22:42 (409 MB/s) - ‘sp21.datastructur.es/materials/guides/img/file-status.png’ saved [13727/13727]
+
+--2025-04-26 15:22:42--  https://sp21.datastructur.es/materials/guides/img/graph1.svg
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23898 (23K) [image/svg+xml]
+Saving to: ‘sp21.datastructur.es/materials/guides/img/graph1.svg’
+
+     0K .......... .......... ...                             100% 8.67M=0.003s
+
+2025-04-26 15:22:42 (8.67 MB/s) - ‘sp21.datastructur.es/materials/guides/img/graph1.svg’ saved [23898/23898]
+
+--2025-04-26 15:22:42--  https://sp21.datastructur.es/materials/guides/img/graph2.svg
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 37326 (36K) [image/svg+xml]
+Saving to: ‘sp21.datastructur.es/materials/guides/img/graph2.svg’
+
+     0K .......... .......... .......... ......               100% 27.6M=0.001s
+
+2025-04-26 15:22:43 (27.6 MB/s) - ‘sp21.datastructur.es/materials/guides/img/graph2.svg’ saved [37326/37326]
+
+--2025-04-26 15:22:43--  https://sp21.datastructur.es/materials/guides/img/graph3.svg
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 43816 (43K) [image/svg+xml]
+Saving to: ‘sp21.datastructur.es/materials/guides/img/graph3.svg’
+
+     0K .......... .......... .......... .......... ..        100% 3.22M=0.01s
+
+2025-04-26 15:22:43 (3.22 MB/s) - ‘sp21.datastructur.es/materials/guides/img/graph3.svg’ saved [43816/43816]
+
+--2025-04-26 15:22:43--  https://sp21.datastructur.es/materials/guides/img/graph4.svg
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 48137 (47K) [image/svg+xml]
+Saving to: ‘sp21.datastructur.es/materials/guides/img/graph4.svg’
+
+     0K .......... .......... .......... .......... .......   100% 27.0M=0.002s
+
+2025-04-26 15:22:44 (27.0 MB/s) - ‘sp21.datastructur.es/materials/guides/img/graph4.svg’ saved [48137/48137]
+
+--2025-04-26 15:22:44--  https://sp21.datastructur.es/materials/guides/img/Exercise2.2.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 193278 (189K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/guides/img/Exercise2.2.png’
+
+     0K .......... .......... .......... .......... .......... 26% 14.8M 0s
+    50K .......... .......... .......... .......... .......... 52% 14.5M 0s
+   100K .......... .......... .......... .......... .......... 79%  848K 0s
+   150K .......... .......... .......... ........             100% 18.4M=0.07s
+
+2025-04-26 15:22:45 (2.72 MB/s) - ‘sp21.datastructur.es/materials/guides/img/Exercise2.2.png’ saved [193278/193278]
+
+--2025-04-26 15:22:45--  https://sp21.datastructur.es/materials/guides/img/github-remote-url.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 100819 (98K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/guides/img/github-remote-url.png’
+
+     0K .......... .......... .......... .......... .......... 50% 2.41M 0s
+    50K .......... .......... .......... .......... ........  100% 17.8M=0.02s
+
+2025-04-26 15:22:45 (4.19 MB/s) - ‘sp21.datastructur.es/materials/guides/img/github-remote-url.png’ saved [100819/100819]
+
+--2025-04-26 15:22:45--  https://sp21.datastructur.es/materials/guides/img/Exercise2.3.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 107748 (105K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/guides/img/Exercise2.3.png’
+
+     0K .......... .......... .......... .......... .......... 47%  876K 0s
+    50K .......... .......... .......... .......... .......... 95% 16.9M 0s
+   100K .....                                                 100%  104K=0.06s
+
+2025-04-26 15:22:46 (1.71 MB/s) - ‘sp21.datastructur.es/materials/guides/img/Exercise2.3.png’ saved [107748/107748]
+
+--2025-04-26 15:22:46--  https://sp21.datastructur.es/materials/guides/img/Exercise2.4.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 139877 (137K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/guides/img/Exercise2.4.png’
+
+     0K .......... .......... .......... .......... .......... 36% 2.79M 0s
+    50K .......... .......... .......... .......... .......... 73% 8.00M 0s
+   100K .......... .......... .......... ......               100% 6.05M=0.03s
+
+2025-04-26 15:22:46 (4.52 MB/s) - ‘sp21.datastructur.es/materials/guides/img/Exercise2.4.png’ saved [139877/139877]
+
+--2025-04-26 15:22:46--  https://sp21.datastructur.es/materials/guides/img/Exercise2.5.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 128490 (125K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/guides/img/Exercise2.5.png’
+
+     0K .......... .......... .......... .......... .......... 39% 2.44M 0s
+    50K .......... .......... .......... .......... .......... 79% 26.0M 0s
+   100K .......... .......... .....                           100%  163M=0.02s
+
+2025-04-26 15:22:46 (5.55 MB/s) - ‘sp21.datastructur.es/materials/guides/img/Exercise2.5.png’ saved [128490/128490]
+
+--2025-04-26 15:22:46--  https://sp21.datastructur.es/materials/guides/img/Exercise2.6.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 104534 (102K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/guides/img/Exercise2.6.png’
+
+     0K .......... .......... .......... .......... .......... 48% 3.21M 0s
+    50K .......... .......... .......... .......... .......... 97% 6.08M 0s
+   100K ..                                                    100% 41.7K=0.02s
+
+2025-04-26 15:22:47 (4.29 MB/s) - ‘sp21.datastructur.es/materials/guides/img/Exercise2.6.png’ saved [104534/104534]
+
+--2025-04-26 15:22:47--  https://sp21.datastructur.es/materials/guides/img/Exercise2.7.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 177868 (174K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/guides/img/Exercise2.7.png’
+
+     0K .......... .......... .......... .......... .......... 28% 12.4M 0s
+    50K .......... .......... .......... .......... .......... 57% 12.8M 0s
+   100K .......... .......... .......... .......... .......... 86% 14.0M 0s
+   150K .......... .......... ...                             100%  169M=0.01s
+
+2025-04-26 15:22:47 (14.9 MB/s) - ‘sp21.datastructur.es/materials/guides/img/Exercise2.7.png’ saved [177868/177868]
+
+--2025-04-26 15:22:47--  https://sp21.datastructur.es/materials/guides/img/Exercise2.8.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 261899 (256K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/guides/img/Exercise2.8.png’
+
+     0K .......... .......... .......... .......... .......... 19% 2.25M 0s
+    50K .......... .......... .......... .......... .......... 39% 3.81M 0s
+   100K .......... .......... .......... .......... .......... 58% 2.18M 0s
+   150K .......... .......... .......... .......... .......... 78% 4.33M 0s
+   200K .......... .......... .......... .......... .......... 97% 1.42M 0s
+   250K .....                                                 100%  115K=0.1s
+
+2025-04-26 15:22:48 (2.44 MB/s) - ‘sp21.datastructur.es/materials/guides/img/Exercise2.8.png’ saved [261899/261899]
+
+--2025-04-26 15:22:48--  https://sp21.datastructur.es/materials/guides/img/Exercise2.9.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 250237 (244K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/guides/img/Exercise2.9.png’
+
+     0K .......... .......... .......... .......... .......... 20% 1.74M 0s
+    50K .......... .......... .......... .......... .......... 40% 3.82M 0s
+   100K .......... .......... .......... .......... .......... 61% 2.00M 0s
+   150K .......... .......... .......... .......... .......... 81% 2.06M 0s
+   200K .......... .......... .......... .......... ....      100% 7.09M=0.1s
+
+2025-04-26 15:22:48 (2.51 MB/s) - ‘sp21.datastructur.es/materials/guides/img/Exercise2.9.png’ saved [250237/250237]
+
+--2025-04-26 15:22:48--  http://sp21.datastructur.es/materials/lab/lab1setup/windows_setup_video.html
+Connecting to sp21.datastructur.es (sp21.datastructur.es)|198.18.0.219|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://sp21.datastructur.es/materials/lab/lab1setup/windows_setup_video.html [following]
+--2025-04-26 15:22:49--  https://sp21.datastructur.es/materials/lab/lab1setup/windows_setup_video.html
+Connecting to sp21.datastructur.es (sp21.datastructur.es)|198.18.0.219|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 77 [text/html]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab1setup/windows_setup_video.html’
+
+     0K                                                       100% 2.53M=0s
+
+2025-04-26 15:22:50 (2.53 MB/s) - ‘sp21.datastructur.es/materials/lab/lab1setup/windows_setup_video.html’ saved [77/77]
+
+--2025-04-26 15:22:50--  https://sp21.datastructur.es/materials/lab/lab1setup/img/openJDK_install.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 46645 (46K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab1setup/img/openJDK_install.png’
+
+     0K .......... .......... .......... .......... .....     100%  507K=0.09s
+
+2025-04-26 15:22:50 (507 KB/s) - ‘sp21.datastructur.es/materials/lab/lab1setup/img/openJDK_install.png’ saved [46645/46645]
+
+--2025-04-26 15:22:50--  https://sp21.datastructur.es/materials/lab/lab1setup/img/openJDK_install_2.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 44473 (43K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab1setup/img/openJDK_install_2.png’
+
+     0K .......... .......... .......... .......... ...       100% 1.66M=0.03s
+
+2025-04-26 15:22:50 (1.66 MB/s) - ‘sp21.datastructur.es/materials/lab/lab1setup/img/openJDK_install_2.png’ saved [44473/44473]
+
+--2025-04-26 15:22:50--  https://sp21.datastructur.es/materials/lab/lab1setup/img/git_download.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 328256 (321K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab1setup/img/git_download.png’
+
+     0K .......... .......... .......... .......... .......... 15% 6.04M 0s
+    50K .......... .......... .......... .......... .......... 31%  604K 0s
+   100K .......... .......... .......... .......... .......... 46% 1.55M 0s
+   150K .......... .......... .......... .......... .......... 62% 1.06M 0s
+   200K .......... .......... .......... .......... .......... 77% 1.55M 0s
+   250K .......... .......... .......... .......... .......... 93% 2.97M 0s
+   300K .......... ..........                                 100%  116M=0.2s
+
+2025-04-26 15:22:51 (1.45 MB/s) - ‘sp21.datastructur.es/materials/lab/lab1setup/img/git_download.png’ saved [328256/328256]
+
+--2025-04-26 15:22:51--  https://sp21.datastructur.es/materials/lab/lab1setup/img/git_install1.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 43346 (42K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab1setup/img/git_install1.png’
+
+     0K .......... .......... .......... .......... ..        100% 4.82M=0.009s
+
+2025-04-26 15:22:51 (4.82 MB/s) - ‘sp21.datastructur.es/materials/lab/lab1setup/img/git_install1.png’ saved [43346/43346]
+
+--2025-04-26 15:22:51--  https://sp21.datastructur.es/materials/lab/lab1setup/img/git_text_editor.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 41422 (40K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab1setup/img/git_text_editor.png’
+
+     0K .......... .......... .......... ..........           100% 8.23M=0.005s
+
+2025-04-26 15:22:52 (8.23 MB/s) - ‘sp21.datastructur.es/materials/lab/lab1setup/img/git_text_editor.png’ saved [41422/41422]
+
+--2025-04-26 15:22:52--  https://sp21.datastructur.es/materials/lab/lab1setup/img/git-bash-install.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 32791 (32K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab1setup/img/git-bash-install.png’
+
+     0K .......... .......... .......... ..                   100% 10.6M=0.003s
+
+2025-04-26 15:22:52 (10.6 MB/s) - ‘sp21.datastructur.es/materials/lab/lab1setup/img/git-bash-install.png’ saved [32791/32791]
+
+--2025-04-26 15:22:52--  https://sp21.datastructur.es/materials/lab/lab1setup/img/bash_text_editor_check.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 17376 (17K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab1setup/img/bash_text_editor_check.png’
+
+     0K .......... ......                                     100% 3.76M=0.004s
+
+2025-04-26 15:22:53 (3.76 MB/s) - ‘sp21.datastructur.es/materials/lab/lab1setup/img/bash_text_editor_check.png’ saved [17376/17376]
+
+--2025-04-26 15:22:53--  https://sp21.datastructur.es/materials/lab/lab1setup/img/terminal_default.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 37463 (37K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab1setup/img/terminal_default.png’
+
+     0K .......... .......... .......... ......               100% 1.86M=0.02s
+
+2025-04-26 15:22:53 (1.86 MB/s) - ‘sp21.datastructur.es/materials/lab/lab1setup/img/terminal_default.png’ saved [37463/37463]
+
+--2025-04-26 15:22:53--  https://sp21.datastructur.es/materials/lab/lab1setup/img/terminal_setup_1.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 134643 (131K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab1setup/img/terminal_setup_1.png’
+
+     0K .......... .......... .......... .......... .......... 38% 3.93M 0s
+    50K .......... .......... .......... .......... .......... 76% 7.42M 0s
+   100K .......... .......... .......... .                    100% 9.04M=0.02s
+
+2025-04-26 15:22:53 (5.73 MB/s) - ‘sp21.datastructur.es/materials/lab/lab1setup/img/terminal_setup_1.png’ saved [134643/134643]
+
+--2025-04-26 15:22:53--  https://sp21.datastructur.es/materials/lab/lab1setup/img/terminal_setup_2.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 144492 (141K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab1setup/img/terminal_setup_2.png’
+
+     0K .......... .......... .......... .......... .......... 35% 1.93M 0s
+    50K .......... .......... .......... .......... .......... 70% 3.96M 0s
+   100K .......... .......... .......... .......... .         100% 7.23M=0.04s
+
+2025-04-26 15:22:54 (3.19 MB/s) - ‘sp21.datastructur.es/materials/lab/lab1setup/img/terminal_setup_2.png’ saved [144492/144492]
+
+--2025-04-26 15:22:54--  https://sp21.datastructur.es/materials/lab/lab1setup/img/terminal_setup_3.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 22096 (22K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab1setup/img/terminal_setup_3.png’
+
+     0K .......... .......... .                               100% 97.6M=0s
+
+2025-04-26 15:22:54 (97.6 MB/s) - ‘sp21.datastructur.es/materials/lab/lab1setup/img/terminal_setup_3.png’ saved [22096/22096]
+
+--2025-04-26 15:22:54--  https://sp21.datastructur.es/materials/lab/lab1setup/img/terminal_setup_4.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 49724 (49K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab1setup/img/terminal_setup_4.png’
+
+     0K .......... .......... .......... .......... ........  100%  354M=0s
+
+2025-04-26 15:22:54 (354 MB/s) - ‘sp21.datastructur.es/materials/lab/lab1setup/img/terminal_setup_4.png’ saved [49724/49724]
+
+--2025-04-26 15:22:54--  https://sp21.datastructur.es/materials/lab/lab1setup/img/terminal_setup_5.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 177134 (173K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab1setup/img/terminal_setup_5.png’
+
+     0K .......... .......... .......... .......... .......... 28% 1.04M 0s
+    50K .......... .......... .......... .......... .......... 57% 55.4M 0s
+   100K .......... .......... .......... .......... .......... 86% 22.6M 0s
+   150K .......... .......... ..                              100% 91.6M=0.05s
+
+2025-04-26 15:22:55 (3.36 MB/s) - ‘sp21.datastructur.es/materials/lab/lab1setup/img/terminal_setup_5.png’ saved [177134/177134]
+
+--2025-04-26 15:22:55--  https://sp21.datastructur.es/materials/lab/lab1setup/img/terminal_setup_6.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 146405 (143K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab1setup/img/terminal_setup_6.png’
+
+     0K .......... .......... .......... .......... .......... 34% 1.83M 0s
+    50K .......... .......... .......... .......... .......... 69% 10.6M 0s
+   100K .......... .......... .......... .......... ..        100% 34.2M=0.03s
+
+2025-04-26 15:22:55 (4.29 MB/s) - ‘sp21.datastructur.es/materials/lab/lab1setup/img/terminal_setup_6.png’ saved [146405/146405]
+
+--2025-04-26 15:22:55--  https://sp21.datastructur.es/materials/lab/lab1setup/img/homebrew_warnings.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 402765 (393K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab1setup/img/homebrew_warnings.png’
+
+     0K .......... .......... .......... .......... .......... 12% 4.56M 0s
+    50K .......... .......... .......... .......... .......... 25%  420K 0s
+   100K .......... .......... .......... .......... .......... 38%  161K 1s
+   150K .......... .......... .......... .......... .......... 50% 66.1K 1s
+   200K .......... .......... .......... .......... .......... 63% 91.6M 1s
+   250K .......... .......... .......... .......... .......... 76%  152M 0s
+   300K .......... .......... .......... .......... .......... 88%  157M 0s
+   350K .......... .......... .......... .......... ...       100%  130M=1.2s
+
+2025-04-26 15:22:57 (328 KB/s) - ‘sp21.datastructur.es/materials/lab/lab1setup/img/homebrew_warnings.png’ saved [402765/402765]
+
+--2025-04-26 15:22:57--  https://sp21.datastructur.es/materials/guides/img/plugin-checkstyle-button.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 40852 (40K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/guides/img/plugin-checkstyle-button.png’
+
+     0K .......... .......... .......... .........            100%  110K=0.4s
+
+2025-04-26 15:22:58 (110 KB/s) - ‘sp21.datastructur.es/materials/guides/img/plugin-checkstyle-button.png’ saved [40852/40852]
+
+--2025-04-26 15:22:58--  https://sp21.datastructur.es/materials/guides/img/plugin-checkstyle-results.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 65540 (64K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/guides/img/plugin-checkstyle-results.png’
+
+     0K .......... .......... .......... .......... .......... 78% 1.11M 0s
+    50K .......... ....                                       100% 58.9M=0.04s
+
+2025-04-26 15:22:58 (1.42 MB/s) - ‘sp21.datastructur.es/materials/guides/img/plugin-checkstyle-results.png’ saved [65540/65540]
+
+--2025-04-26 15:22:58--  https://sp21.datastructur.es/materials/guides/img/plugin-visualizer-tab.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 127106 (124K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/guides/img/plugin-visualizer-tab.png’
+
+     0K .......... .......... .......... .......... .......... 40%  392K 0s
+    50K .......... .......... .......... .......... .......... 80% 1.41M 0s
+   100K .......... .......... ....                            100%  125M=0.2s
+
+2025-04-26 15:22:59 (764 KB/s) - ‘sp21.datastructur.es/materials/guides/img/plugin-visualizer-tab.png’ saved [127106/127106]
+
+--2025-04-26 15:22:59--  https://sp21.datastructur.es/materials/guides/img/plugin-visualizer-view.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 95445 (93K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/guides/img/plugin-visualizer-view.png’
+
+     0K .......... .......... .......... .......... .......... 53%  155K 0s
+    50K .......... .......... .......... .......... ...       100% 5.84M=0.3s
+
+2025-04-26 15:23:00 (282 KB/s) - ‘sp21.datastructur.es/materials/guides/img/plugin-visualizer-view.png’ saved [95445/95445]
+
+--2025-04-26 15:23:00--  https://sp21.datastructur.es/materials/lab/lab1/img4/windows_start_menu.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 273562 (267K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab1/img4/windows_start_menu.png’
+
+     0K .......... .......... .......... .......... .......... 18% 59.8K 4s
+    50K .......... .......... .......... .......... .......... 37% 59.7K 3s
+   100K .......... .......... .......... .......... .......... 56%  114M 1s
+   150K .......... .......... .......... .......... .......... 74%  503M 1s
+   200K .......... .......... .......... .......... .......... 93%  252M 0s
+   250K .......... .......                                    100%  132M=1.7s
+
+2025-04-26 15:23:02 (160 KB/s) - ‘sp21.datastructur.es/materials/lab/lab1/img4/windows_start_menu.png’ saved [273562/273562]
+
+--2025-04-26 15:23:02--  https://sp21.datastructur.es/materials/lab/lab1/img4/edit_the_system_environment_variables_search.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 42853 (42K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab1/img4/edit_the_system_environment_variables_search.png’
+
+     0K .......... .......... .......... .......... .         100%  388K=0.1s
+
+2025-04-26 15:23:03 (388 KB/s) - ‘sp21.datastructur.es/materials/lab/lab1/img4/edit_the_system_environment_variables_search.png’ saved [42853/42853]
+
+--2025-04-26 15:23:03--  https://sp21.datastructur.es/materials/lab/lab1/img4/windows_system_properties.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 12065 (12K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab1/img4/windows_system_properties.png’
+
+     0K .......... .                                          100%  384M=0s
+
+2025-04-26 15:23:03 (384 MB/s) - ‘sp21.datastructur.es/materials/lab/lab1/img4/windows_system_properties.png’ saved [12065/12065]
+
+--2025-04-26 15:23:03--  https://sp21.datastructur.es/materials/lab/lab1/img4/windows_environment_variables.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23203 (23K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab1/img4/windows_environment_variables.png’
+
+     0K .......... .......... ..                              100%  111M=0s
+
+2025-04-26 15:23:03 (111 MB/s) - ‘sp21.datastructur.es/materials/lab/lab1/img4/windows_environment_variables.png’ saved [23203/23203]
+
+--2025-04-26 15:23:03--  https://sp21.datastructur.es/materials/lab/lab1/img4/windows_new_system_variable.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4099 (4.0K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab1/img4/windows_new_system_variable.png’
+
+     0K ....                                                  100%  163M=0s
+
+2025-04-26 15:23:04 (163 MB/s) - ‘sp21.datastructur.es/materials/lab/lab1/img4/windows_new_system_variable.png’ saved [4099/4099]
+
+--2025-04-26 15:23:04--  https://sp21.datastructur.es/materials/lab/lab1/img4/windows_new_system_variable_name_entered.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4401 (4.3K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab1/img4/windows_new_system_variable_name_entered.png’
+
+     0K ....                                                  100% 63.6M=0s
+
+2025-04-26 15:23:04 (63.6 MB/s) - ‘sp21.datastructur.es/materials/lab/lab1/img4/windows_new_system_variable_name_entered.png’ saved [4401/4401]
+
+--2025-04-26 15:23:04--  https://sp21.datastructur.es/materials/lab/lab1/img4/windows_browsing_for_repo_folder.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 11930 (12K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab1/img4/windows_browsing_for_repo_folder.png’
+
+     0K .......... .                                          100% 62.5M=0s
+
+2025-04-26 15:23:04 (62.5 MB/s) - ‘sp21.datastructur.es/materials/lab/lab1/img4/windows_browsing_for_repo_folder.png’ saved [11930/11930]
+
+--2025-04-26 15:23:04--  https://sp21.datastructur.es/materials/lab/lab1/img4/windows_done_with_system_variable.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4780 (4.7K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab1/img4/windows_done_with_system_variable.png’
+
+     0K ....                                                  100% 57.7M=0s
+
+2025-04-26 15:23:05 (57.7 MB/s) - ‘sp21.datastructur.es/materials/lab/lab1/img4/windows_done_with_system_variable.png’ saved [4780/4780]
+
+--2025-04-26 15:23:05--  https://sp21.datastructur.es/materials/lab/lab1/img4/run_shortcut.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 100306 (98K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab1/img4/run_shortcut.png’
+
+     0K .......... .......... .......... .......... .......... 51%  582K 0s
+    50K .......... .......... .......... .......... .......   100% 6.76M=0.09s
+
+2025-04-26 15:23:05 (1.03 MB/s) - ‘sp21.datastructur.es/materials/lab/lab1/img4/run_shortcut.png’ saved [100306/100306]
+
+--2025-04-26 15:23:05--  https://sp21.datastructur.es/materials/lab/lab2setup/img3/intellij-home-screen-for-maven.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 110215 (108K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab2setup/img3/intellij-home-screen-for-maven.png’
+
+     0K .......... .......... .......... .......... .......... 46%  832K 0s
+    50K .......... .......... .......... .......... .......... 92% 47.6M 0s
+   100K .......                                               100%  153K=0.06s
+
+2025-04-26 15:23:06 (1.72 MB/s) - ‘sp21.datastructur.es/materials/lab/lab2setup/img3/intellij-home-screen-for-maven.png’ saved [110215/110215]
+
+--2025-04-26 15:23:06--  https://sp21.datastructur.es/materials/lab/lab2setup/img3/maven-settings.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 282167 (276K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab2setup/img3/maven-settings.png’
+
+     0K .......... .......... .......... .......... .......... 18%  640K 0s
+    50K .......... .......... .......... .......... .......... 36% 9.21M 0s
+   100K .......... .......... .......... .......... .......... 54% 1.18M 0s
+   150K .......... .......... .......... .......... .......... 72% 12.7M 0s
+   200K .......... .......... .......... .......... .......... 90%  294K 0s
+   250K .......... .......... .....                           100% 41.9M=0.3s
+
+2025-04-26 15:23:06 (921 KB/s) - ‘sp21.datastructur.es/materials/lab/lab2setup/img3/maven-settings.png’ saved [282167/282167]
+
+--2025-04-26 15:23:06--  https://sp21.datastructur.es/materials/lab/lab2setup/img3/maven-settings-highlighted.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 264924 (259K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab2setup/img3/maven-settings-highlighted.png’
+
+     0K .......... .......... .......... .......... .......... 19% 8.41M 0s
+    50K .......... .......... .......... .......... .......... 38% 4.59M 0s
+   100K .......... .......... .......... .......... .......... 57% 1.78M 0s
+   150K .......... .......... .......... .......... .......... 77% 8.69M 0s
+   200K .......... .......... .......... .......... .......... 96% 1.74M 0s
+   250K ........                                              100% 51.6M=0.08s
+
+2025-04-26 15:23:07 (3.25 MB/s) - ‘sp21.datastructur.es/materials/lab/lab2setup/img3/maven-settings-highlighted.png’ saved [264924/264924]
+
+--2025-04-26 15:23:07--  https://sp21.datastructur.es/materials/lab/lab2setup/img3/open-as-file-or-project.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 225706 (220K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab2setup/img3/open-as-file-or-project.png’
+
+     0K .......... .......... .......... .......... .......... 22%  732K 0s
+    50K .......... .......... .......... .......... .......... 45% 1.13M 0s
+   100K .......... .......... .......... .......... .......... 68% 23.9M 0s
+   150K .......... .......... .......... .......... .......... 90% 1.09M 0s
+   200K .......... ..........                                 100%  880K=0.2s
+
+2025-04-26 15:23:08 (1.18 MB/s) - ‘sp21.datastructur.es/materials/lab/lab2setup/img3/open-as-file-or-project.png’ saved [225706/225706]
+
+--2025-04-26 15:23:08--  https://sp21.datastructur.es/materials/lab/lab2setup/img3/run_run.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 710434 (694K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab2setup/img3/run_run.png’
+
+     0K .......... .......... .......... .......... ..........  7% 1.76M 0s
+    50K .......... .......... .......... .......... .......... 14% 1.13M 0s
+   100K .......... .......... .......... .......... .......... 21%  393K 1s
+   150K .......... .......... .......... .......... .......... 28%  877K 1s
+   200K .......... .......... .......... .......... .......... 36% 1.81M 1s
+   250K .......... .......... .......... .......... .......... 43%  489K 1s
+   300K .......... .......... .......... .......... .......... 50% 1.75M 0s
+   350K .......... .......... .......... .......... .......... 57% 1.13M 0s
+   400K .......... .......... .......... .......... .......... 64%  865K 0s
+   450K .......... .......... .......... .......... .......... 72%  969K 0s
+   500K .......... .......... .......... .......... .......... 79% 1.90M 0s
+   550K .......... .......... .......... .......... .......... 86% 1.27M 0s
+   600K .......... .......... .......... .......... .......... 93%  486K 0s
+   650K .......... .......... .......... .......... ...       100% 1.59M=0.8s
+
+2025-04-26 15:23:09 (915 KB/s) - ‘sp21.datastructur.es/materials/lab/lab2setup/img3/run_run.png’ saved [710434/710434]
+
+--2025-04-26 15:23:09--  https://sp21.datastructur.es/materials/lab/lab2setup/img3/run_dialog.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 56703 (55K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab2setup/img3/run_dialog.png’
+
+     0K .......... .......... .......... .......... .......... 90%  430K 0s
+    50K .....                                                 100%  107K=0.1s
+
+2025-04-26 15:23:09 (477 KB/s) - ‘sp21.datastructur.es/materials/lab/lab2setup/img3/run_dialog.png’ saved [56703/56703]
+
+--2025-04-26 15:23:09--  https://sp21.datastructur.es/materials/lab/lab2setup/img3/tests_passed.png
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 98445 (96K) [image/png]
+Saving to: ‘sp21.datastructur.es/materials/lab/lab2setup/img3/tests_passed.png’
+
+     0K .......... .......... .......... .......... .......... 52%  578K 0s
+    50K .......... .......... .......... .......... ......    100% 1.67M=0.1s
+
+2025-04-26 15:23:10 (847 KB/s) - ‘sp21.datastructur.es/materials/lab/lab2setup/img3/tests_passed.png’ saved [98445/98445]
+
+--2025-04-26 15:23:10--  https://sp21.datastructur.es/materials/lab/lab1setup/'https://youtu.be/Ws-irWyp-G8'
+Reusing existing connection to sp21.datastructur.es:443.
+HTTP request sent, awaiting response... 404 Not Found
+2025-04-26 15:23:10 ERROR 404: Not Found.
+
+FINISHED --2025-04-26 15:23:10--
+Total wall clock time: 4m 33s
+Downloaded: 397 files, 100M in 1m 22s (1.23 MB/s)
+Converting links in sp21.datastructur.es/materials/proj/proj0/proj0.html... 60.
+55-5
+Converting links in sp21.datastructur.es/materials/lab/lab8/lab8.html... 26.
+23-3
+Converting links in sp21.datastructur.es/materials/lectures/lec35/lec35.html... 19.
+16-3
+Converting links in sp21.datastructur.es/materials/lab/lab1/lab1SnapsSetupWindows.html... 25.
+22-3
+Converting links in sp21.datastructur.es/materials/lectures/lec19/lec19.html... 17.
+14-3
+Converting links in sp21.datastructur.es/materials/guides/style-guide.html... 23.
+20-3
+Converting links in sp21.datastructur.es/materials/hw/hw0/hw0.html... 46.
+43-3
+Converting links in sp21.datastructur.es/materials/lectures/lec1/lec1.html... 19.
+16-3
+Converting links in sp21.datastructur.es/materials/lab/lab1setup/lab1setup.html... 30.
+27-3
+Converting links in sp21.datastructur.es/materials/lectures/lec4/lec4.html... 22.
+19-3
+Converting links in sp21.datastructur.es/materials/lab/lab2/lab2.html... 45.
+41-4
+Converting links in sp21.datastructur.es/materials/lectures/lec18/lec18.html... 17.
+14-3
+Converting links in sp21.datastructur.es/materials/lectures/lec7/lec7.html... 21.
+18-3
+Converting links in sp21.datastructur.es/materials/lectures/lec26/lec26.html... 23.
+18-5
+Converting links in sp21.datastructur.es/materials/lectures/lec34/lec34.html... 16.
+13-3
+Converting links in sp21.datastructur.es/materials/proj/proj3/capers-example.html... 26.
+23-3
+Converting links in sp21.datastructur.es/materials/lab/lab1setup/windows.html... 33.
+30-3
+Converting links in sp21.datastructur.es/materials/lectures/lec33/lec33.html... 20.
+17-3
+Converting links in sp21.datastructur.es/materials/lectures/lec25/lec25.html... 24.
+20-4
+Converting links in sp21.datastructur.es/materials/lectures/lec17/lec17.html... 20.
+17-3
+Converting links in sp21.datastructur.es/materials/guides/git-wtfs.html... 19.
+16-3
+Converting links in sp21.datastructur.es/materials/exam/proctoring.html... 29.
+26-3
+Converting links in sp21.datastructur.es/announcements.html... 50.
+41-9
+Converting links in sp21.datastructur.es/materials/lectures/lec24/lec24.html... 23.
+19-4
+Converting links in sp21.datastructur.es/materials/lectures/lec16/lec16.html... 22.
+19-3
+Converting links in sp21.datastructur.es/materials/lectures/lec32/lec32.html... 20.
+17-3
+Converting links in sp21.datastructur.es/materials/proj/proj1/proj1ec.html... 27.
+24-3
+Converting links in sp21.datastructur.es/materials/lab/lab1setup/linux.html... 15.
+12-3
+Converting links in sp21.datastructur.es/materials/lab/lab7/lab7.html... 20.
+17-3
+Converting links in sp21.datastructur.es/materials/guides/partnerships3.html... 19.
+16-3
+Converting links in sp21.datastructur.es/materials/lectures/lec31/lec31.html... 17.
+14-3
+Converting links in sp21.datastructur.es/materials/lectures/lec23/lec23.html... 20.
+17-3
+Converting links in sp21.datastructur.es/materials/lectures/lec15/lec15.html... 20.
+17-3
+Converting links in sp21.datastructur.es/materials/lab/lab2setup/lab2setup.html... 21.
+18-3
+Converting links in sp21.datastructur.es/materials/lab/lab5/knaveos.html... nothing to do.
+Converting links in sp21.datastructur.es/materials/lab/lab1/lab1.html... 45.
+41-4
+Converting links in sp21.datastructur.es/materials/lectures/lec30/lec30.html... 21.
+18-3
+Converting links in sp21.datastructur.es/materials/lectures/lec6/lec6.html... 20.
+17-3
+Converting links in sp21.datastructur.es/materials/lab/lab4/lab4.html... 28.
+25-3
+Converting links in sp21.datastructur.es/materials/lectures/lec14/lec14.html... 22.
+19-3
+Converting links in sp21.datastructur.es/materials/lectures/lec9/lec9.html... 22.
+19-3
+Converting links in sp21.datastructur.es/materials/lectures/lec22/lec22.html... 21.
+18-3
+Converting links in sp21.datastructur.es/materials/proj/proj3/proj3checkoff.html... 15.
+12-3
+Converting links in sp21.datastructur.es/materials/proj/proj2/design.html... 20.
+17-3
+Converting links in sp21.datastructur.es/materials/guides/using-git.html... 65.
+60-5
+Converting links in sp21.datastructur.es/materials/guides/beacon-guide.html... 24.
+19-5
+Converting links in sp21.datastructur.es/materials/lectures/lec21/lec21.html... 20.
+17-3
+Converting links in sp21.datastructur.es/materials/lectures/lec13/lec13.html... 20.
+17-3
+Converting links in sp21.datastructur.es/materials/47b/47b.html... 24.
+21-3
+Converting links in sp21.datastructur.es/materials/guides/plugin.html... 23.
+19-4
+Converting links in sp21.datastructur.es/materials/hw/hw0/hw0_copy_and_paste.html... nothing to do.
+Converting links in sp21.datastructur.es/materials/lectures/lec3/lec3.html... 21.
+18-3
+Converting links in sp21.datastructur.es/materials/lectures/lec20/lec20.html... 23.
+20-3
+Converting links in sp21.datastructur.es/staff.html... 20.
+16-4
+Converting links in sp21.datastructur.es/exams.html... 20.
+16-4
+Converting links in sp21.datastructur.es/materials/proj/proj2/capers-example.html... 26.
+23-3
+Converting links in sp21.datastructur.es/materials/lectures/lec11/lec11.html... 21.
+18-3
+Converting links in sp21.datastructur.es/materials/guides/getting-started.html... 37.
+34-3
+Converting links in sp21.datastructur.es/materials/guides/ed-policies.html... 21.
+15-6
+Converting links in sp21.datastructur.es/materials/guides/office-hours.html... 15.
+12-3
+Converting links in sp21.datastructur.es/materials/guides/discord-guide.html... 23.
+20-3
+Converting links in sp21.datastructur.es/materials/lab/lab3/lab3.html... 36.
+33-3
+Converting links in sp21.datastructur.es/materials/guides/ed-guide.html... 58.
+55-3
+Converting links in sp21.datastructur.es/materials/lectures/lec10/lec10.html... 19.
+16-3
+Converting links in sp21.datastructur.es/index.html... 172.
+146-26
+Converting links in sp21.datastructur.es/materials/lab/lab6/lab6.html... 44.
+40-4
+Converting links in sp21.datastructur.es/materials/lectures/lec8/lec8.html... 19.
+16-3
+Converting links in sp21.datastructur.es/materials/guides/incident-reports-2017.html... 15.
+12-3
+Converting links in sp21.datastructur.es/materials/lab/lab1setup/mac.html... 18.
+15-3
+Converting links in sp21.datastructur.es/materials/lab/lab1setup/windows_setup_video.html... 1.
+0-1
+Converting links in sp21.datastructur.es/materials/guides/gitbugs.html... 21.
+17-4
+Converting links in sp21.datastructur.es/materials/guides/make-install.html... 20.
+17-3
+Converting links in sp21.datastructur.es/about.html... 53.
+42-11
+Converting links in sp21.datastructur.es/materials/guides/debugging-guide.html... 38.
+35-3
+Converting links in sp21.datastructur.es/materials/exam/local_recording.html... 20.
+17-3
+Converting links in sp21.datastructur.es/materials/proj/proj3/proj3.html... 72.
+69-3
+Converting links in sp21.datastructur.es/materials/lectures/lec2/lec2.html... 21.
+18-3
+Converting links in sp21.datastructur.es/materials/proj/proj3/proj3GameSharing.html... 25.
+22-3
+Converting links in sp21.datastructur.es/materials/lab/lab13/lab13.html... 25.
+22-3
+Converting links in sp21.datastructur.es/materials/lectures/lec5/lec5.html... 22.
+19-3
+Converting links in sp21.datastructur.es/materials/lectures/lec38/lec38.html... 19.
+16-3
+Converting links in sp21.datastructur.es/materials/guides/staff-gitlet.html... 18.
+15-3
+Converting links in sp21.datastructur.es/materials/guides/intellij-wtfs.html... 28.
+25-3
+Converting links in sp21.datastructur.es/materials/lab/lab1/lab1SnapsSetupMacAndLinux.html... 21.
+18-3
+Converting links in sp21.datastructur.es/materials/proj/proj2/proj2.html... 84.
+80-4
+Converting links in sp21.datastructur.es/materials/lab/lab12/lab12.html... 36.
+33-3
+Converting links in sp21.datastructur.es/materials/lectures/lec37/lec37.html... 17.
+14-3
+Converting links in sp21.datastructur.es/materials/lectures/lec29/lec29.html... 19.
+16-3
+Converting links in sp21.datastructur.es/materials/guides/partnerships.html... 30.
+27-3
+Converting links in sp21.datastructur.es/materials/guides/asymptotics.html... 31.
+28-3
+Converting links in sp21.datastructur.es/materials/proj/proj1/proj1.html... 53.
+49-4
+Converting links in sp21.datastructur.es/materials/lectures/lec36/lec36.html... 16.
+13-3
+Converting links in sp21.datastructur.es/resources.html... 55.
+51-4
+Converting links in sp21.datastructur.es/materials/lab/lab5/lab5.html... 21.
+18-3
+Converting links in sp21.datastructur.es/assets/css/common.css... nothing to do.
+Converting links in sp21.datastructur.es/assets/css/index.css... nothing to do.
+Converting links in sp21.datastructur.es/assets/css/fullcalendar.min.css... nothing to do.
+Converting links in sp21.datastructur.es/assets/css/sunburst.css... nothing to do.
+Converting links in sp21.datastructur.es/assets/css/about.css... nothing to do.
+Converting links in sp21.datastructur.es/assets/css/lab.css... nothing to do.
+Converting links in sp21.datastructur.es/assets/css/staff.css... nothing to do.
+Converting links in sp21.datastructur.es/assets/css/font-awesome.min.css... 6.
+6-0
+Converting links in sp21.datastructur.es/assets/css/calendar.css... nothing to do.
+Converted links in 103 files in 0.07 seconds.
